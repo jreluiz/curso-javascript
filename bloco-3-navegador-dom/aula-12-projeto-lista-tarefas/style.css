@@ -1,0 +1,99 @@
+/* style.css — Lista de Tarefas (fornecido pronto: foco da aula é o JS!) */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #f0f2f5;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 40px 16px;
+}
+
+main {
+  background: #fff;
+  width: 100%;
+  max-width: 480px;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  height: fit-content;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+}
+
+.entrada {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+#campo-tarefa {
+  flex: 1;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+#contador {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 12px;
+}
+
+#lista-tarefas {
+  list-style: none;
+}
+
+#lista-tarefas li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+#lista-tarefas li:hover {
+  background: #f8fafc;
+}
+
+/* Tarefa concluída: o JS liga/desliga esta classe */
+.concluida {
+  text-decoration: line-through;
+  color: #9ca3af;
+}
+
+.btn-remover {
+  background: transparent;
+  color: #ef4444;
+  font-size: 1rem;
+  padding: 4px 8px;
+}
+
+.btn-remover:hover {
+  background: #fee2e2;
+}

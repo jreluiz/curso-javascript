@@ -1,0 +1,16 @@
+# Dependências (caso algum dia usem npm)
+node_modules/
+
+# Segredos e ambiente
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
