@@ -1,6 +1,5 @@
 # 🟨 Disciplina de JavaScript
 
-> Material oficial da disciplina — 2º semestre.
 > 📋 Pré-requisito: [Curso de Git e GitHub](https://github.com/jreluiz/curso-git-github) concluído.
 
 ## 🎯 Objetivos da disciplina
@@ -16,7 +15,7 @@ Ao final do semestre, você será capaz de:
 
 ## 🗺️ Plano de aulas
 
-### Bloco 1 — Fundamentos no Node.js (semanas 1–4)
+### Bloco 1 — Fundamentos no Node.js
 
 | Aula | Tema | Conteúdo |
 |:---:|------|----------|
@@ -25,7 +24,7 @@ Ao final do semestre, você será capaz de:
 | 03 | [Operadores e condicionais](bloco-1-fundamentos/aula-03-operadores-condicionais/README.md) | `===` vs `==`, `if`/`else`, `switch`, truthy/falsy |
 | 04 | [Laços e funções](bloco-1-fundamentos/aula-04-lacos-funcoes/README.md) | `while`, `for`, funções, parâmetros, retorno, escopo |
 
-### Bloco 2 — Estruturas e funções de verdade (semanas 5–8)
+### Bloco 2 — Estruturas e funções de verdade
 
 | Aula | Tema | Conteúdo |
 |:---:|------|----------|
@@ -34,7 +33,7 @@ Ao final do semestre, você será capaz de:
 | 07 | [Funções avançadas](bloco-2-estruturas/aula-07-funcoes-avancadas/README.md) | Arrow functions, callbacks, rest/spread |
 | 08 | [Métodos funcionais](bloco-2-estruturas/aula-08-metodos-funcionais/README.md) | `map`, `filter`, `reduce`, `find` e encadeamento |
 
-### Bloco 3 — Navegador e DOM (semanas 9–12)
+### Bloco 3 — Navegador e DOM
 
 | Aula | Tema | Conteúdo |
 |:---:|------|----------|
@@ -43,7 +42,7 @@ Ao final do semestre, você será capaz de:
 | 11 | [Eventos](bloco-3-navegador-dom/aula-11-eventos/README.md) | `addEventListener`, formulários, validação |
 | 12 | [Projeto guiado](bloco-3-navegador-dom/aula-12-projeto-lista-tarefas/README.md) | Lista de tarefas + publicação no GitHub Pages |
 
-### Bloco 4 — Assincronismo e APIs (semanas 13–16)
+### Bloco 4 — Assincronismo e APIs
 
 | Aula | Tema | Conteúdo |
 |:---:|------|----------|
