@@ -52,7 +52,7 @@ Ao final do semestre, você será capaz de:
 | 15 | [Projeto final](bloco-4-assincronismo/aula-15-projeto-final/README.md) | Desenvolvimento orientado do projeto |
 | 16 | [Revisão e próximos passos](bloco-4-assincronismo/aula-16-revisao-proximos-passos/README.md) | Classes (ponte com Java), o que estudar depois |
 
-## 📦 Projetos avaliativos
+## 📦 Projetos práticos
 
 | Projeto | Quando | Modalidade |
 |---------|:---:|------------|
@@ -77,14 +77,6 @@ git commit -m "Resolve exercícios da aula XX"   # commit por exercício conclu�
 # ── Fim da aula (OBRIGATÓRIO) ──
 git push                                # sem push = sem entrega!
 ```
-
-## 📊 Avaliação
-
-- **Avaliação contínua (30%):** histórico de commits do seu repositório `javascript-2026-2` — frequência, mensagens e organização (critérios do Módulo 7 do curso de Git);
-- **Trabalho em dupla (30%):** [Quiz via Pull Request](projetos/trabalho-em-dupla.md);
-- **Projeto final (40%):** [App consumindo API](projetos/projeto-final.md), publicado no GitHub Pages.
-
-> ⚠️ Dez commits distribuídos ao longo da semana valem mais que um commit gigante na véspera — e o `git log` não mente. 😉
 
 ## 🛠️ Ambiente
 

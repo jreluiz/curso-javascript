@@ -1,6 +1,6 @@
 # 🚀 Projeto Final — Aplicação com API
 
-> 📅 Lançado no Bloco 4 (após a aula 14) · Peso: 40% da nota · Individual
+> 📅 Lançado no Bloco 4 (após a aula 14) · Individual
 
 ## Objetivo
 
@@ -30,22 +30,12 @@ Construir e publicar uma aplicação web **que consome uma API real**, integrand
 
 ### Técnicos
 
-- [ ] Repositório próprio com **mínimo de 10 commits** distribuídos (não tudo na véspera — o `git log` é parte da avaliação);
+- [ ] Repositório próprio com **mínimo de 10 commits** distribuídos (não tudo na véspera — o `git log` conta a história do projeto);
 - [ ] **Publicado no GitHub Pages**;
 - [ ] `README.md` com: descrição, **link do site no ar**, API utilizada, prints, e o que você faria com mais tempo;
 - [ ] Código organizado: funções pequenas com nomes claros, `const` por padrão, sem código morto.
 
-## Critérios de avaliação
-
-| Critério | Peso |
-|----------|:---:|
-| Requisitos funcionais completos | 40% |
-| Qualidade do código e organização | 20% |
-| Tratamento de erros e experiência do usuário (loading, mensagens, validação) | 15% |
-| Fluxo Git (commits distribuídos e bem descritos) + README | 15% |
-| Capricho visual e funcionalidades extras | 10% |
-
-## Extras que valem pontos 🌶️
+## Extras para ir além 🌶️
 
 - Histórico de buscas (com `localStorage` para persistir);
 - Filtros/ordenação sobre os resultados;

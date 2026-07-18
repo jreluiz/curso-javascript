@@ -123,7 +123,7 @@ campo.addEventListener("keydown", (e) => {
 });
 ```
 
-Repare no ciclo de **feedback ao usuário**: carregando → sucesso ou erro. Todo app decente faz isso — e é critério do projeto final.
+Repare no ciclo de **feedback ao usuário**: carregando → sucesso ou erro. Todo app decente faz isso — e é requisito do projeto final.
 
 ## 5. APIs abertas para explorar
 
