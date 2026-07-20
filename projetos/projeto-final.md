@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Construir e publicar uma aplicação web **que consome uma API real**, integrando tudo o que foi visto no semestre: DOM, eventos, validação, `fetch`, `async/await`, tratamento de erros e fluxo Git.
+Construir e publicar uma aplicação web **que consome uma API real**, integrando tudo o que foi visto no curso: DOM, eventos, validação, `fetch`, `async/await`, tratamento de erros e fluxo Git.
 
 ## Ideias de projeto (escolha uma ou proponha a sua)
 
@@ -15,7 +15,7 @@ Construir e publicar uma aplicação web **que consome uma API real**, integrand
 | Guia de países | REST Countries | Busca por nome + bandeira, capital, população |
 | Calendário de feriados | BrasilAPI | Feriados do ano com filtro por mês |
 | Previsão do tempo | Open-Meteo | Clima atual + próximos dias por cidade |
-| Tema livre | Qualquer API aberta | **Combine com o professor antes!** |
+| Tema livre | Qualquer API aberta | **Prefira APIs gratuitas e sem chave de acesso!** |
 
 ## Requisitos obrigatórios
 
@@ -44,7 +44,7 @@ Construir e publicar uma aplicação web **que consome uma API real**, integrand
 
 ## Entrega e apresentação
 
-- Links do **repositório** e do **Pages** pelo canal combinado, até a data definida em aula;
-- **Demonstração de 5 minutos** na última semana: mostre o app funcionando (inclusive um caso de erro!) e o trecho de código de que você mais se orgulha.
+- Projeto pronto = repositório público + **Pages** no ar, com o link no README;
+- Faça uma **demonstração de 5 minutos** para alguém (ou grave um vídeo): mostre o app funcionando (inclusive um caso de erro!) e o trecho de código de que você mais se orgulha.
 
 > 💡 Comece simples e **termine** o básico antes de partir para extras. Um app pequeno funcionando, publicado e bem commitado vale mais que um app ambicioso pela metade.

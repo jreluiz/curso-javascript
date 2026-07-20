@@ -2,7 +2,7 @@
 
 > 🎯 Objetivos: consolidar o mapa do que foi aprendido, conhecer classes em JS (a ponte com Java) e saber o que estudar depois.
 
-## 1. O mapa do semestre em uma tela
+## 1. O mapa do curso em uma tela
 
 ```
 BLOCO 1                BLOCO 2                 BLOCO 3               BLOCO 4
@@ -22,7 +22,7 @@ Repare como cada bloco usou o anterior: os callbacks (B2) viraram event listener
 
 ## 2. Classes em JavaScript — a ponte com Java
 
-Vocês passaram o semestre criando objetos **literais**. Java exige o caminho da **classe**: primeiro a "planta", depois os objetos. JavaScript também tem classes — compare:
+Você passou o curso criando objetos **literais**. Java exige o caminho da **classe**: primeiro a "planta", depois os objetos. JavaScript também tem classes — compare:
 
 ```javascript
 // JavaScript
@@ -75,11 +75,11 @@ public class Aluno {
 }
 ```
 
-O que é igual: `class`, construtor, `this`, métodos, `new`. O que muda: Java declara **tipos** em tudo e tem **modificadores de acesso** (`private`/`public`) — o *encapsulamento* que vocês estudaram em OO. Em JS, classes existem e são úteis, mas objetos literais resolvem a maioria dos casos simples; em Java, a classe é obrigatória.
+O que é igual: `class`, construtor, `this`, métodos, `new`. O que muda: Java declara **tipos** em tudo e tem **modificadores de acesso** (`private`/`public`) — o *encapsulamento* que você encontrará ao estudar OO. Em JS, classes existem e são úteis, mas objetos literais resolvem a maioria dos casos simples; em Java, a classe é obrigatória.
 
 > 💡 Exercício mental valioso: pegue qualquer exercício do Bloco 2 e pense em como ele ficaria em Java. Traduzir entre linguagens consolida os **conceitos**, que são o que realmente importa.
 
-## 3. O que deixamos de fora (de propósito) — seu roteiro de férias
+## 3. O que deixamos de fora (de propósito) — seu roteiro pós-curso
 
 Em ordem sugerida de estudo:
 
@@ -87,15 +87,15 @@ Em ordem sugerida de estudo:
 2. **CSS de verdade** — Flexbox e Grid (o jogo [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) é ótimo);
 3. **npm** — instalar e usar pacotes de terceiros (aí o `.gitignore` com `node_modules/` fará todo sentido);
 4. **`this`, protótipos e closures** — os mecanismos internos do JS (o livro gratuito [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) é a referência);
-5. **TypeScript** — JS com tipos; depois de Java, vocês vão *entender por quê* ele existe;
-6. **Um framework** — React ou Vue, só depois de estar confortável com DOM puro (vocês agora sabem o que os frameworks automatizam — essa base faltará a quem começou direto neles);
-7. **Node como back-end** — Express, APIs próprias: vocês deixarão de só consumir APIs para criá-las.
+5. **TypeScript** — JS com tipos; depois de conhecer Java, você vai *entender por quê* ele existe;
+6. **Um framework** — React ou Vue, só depois de estar confortável com DOM puro (você agora sabe o que os frameworks automatizam — essa base faltará a quem começou direto neles);
+7. **Node como back-end** — Express, APIs próprias: você deixará de só consumir APIs para criá-las.
 
 ## 4. Seu portfólio já começou
 
-Faça um inventário do semestre no seu GitHub:
+Faça um inventário do curso no seu GitHub:
 
-- 📁 Repositório da disciplina com **16 pastas de aulas** e dezenas de commits;
+- 📁 Repositório de exercícios com **16 pastas de aulas** e dezenas de commits;
 - 🌐 **Lista de tarefas publicada** no GitHub Pages;
 - 🤝 Um **Pull Request aceito** no trabalho em dupla;
 - 🚀 O **projeto final** no ar, com README.
@@ -114,7 +114,7 @@ Isso é um portfólio inicial real — recrutadores olham exatamente para isso e
 
 ## 🎓 Fim!
 
-Parabéns por chegar aqui. Vocês começaram o semestre sem saber o que era uma variável em JS e terminaram publicando aplicações que consomem APIs reais, com fluxo de trabalho profissional. Sigam commitando.
+Parabéns por chegar aqui. Você começou o curso sem saber o que era uma variável em JS e terminou publicando aplicações que consomem APIs reais, com fluxo de trabalho profissional. Siga commitando.
 
 ---
 

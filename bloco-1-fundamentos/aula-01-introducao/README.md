@@ -12,7 +12,7 @@ Onde o JavaScript roda:
 - 🖥️ **No servidor/terminal (Node.js):** desde 2009, o JS também roda fora do navegador — APIs, ferramentas, automação;
 - 📱 E também em apps mobile, desktop e até em IoT.
 
-> ⚠️ **JavaScript ≠ Java!** Apesar do nome parecido (uma jogada de marketing dos anos 90), são linguagens **completamente diferentes**. Vocês vão estudar as duas neste semestre — e comparar as diferenças vai ensinar muito sobre ambas.
+> ⚠️ **JavaScript ≠ Java!** Apesar do nome parecido (uma jogada de marketing dos anos 90), são linguagens **completamente diferentes**. Se você também estuda (ou vai estudar) Java, comparar as diferenças vai ensinar muito sobre ambas.
 
 | | JavaScript | Java |
 |---|---|---|
@@ -25,15 +25,15 @@ Onde o JavaScript roda:
 Nas primeiras semanas usaremos o **Node.js** para rodar JS direto no terminal. Motivos:
 
 1. Foco total na **lógica**, sem distração de HTML/CSS (que virão no Bloco 3);
-2. O fluxo é idêntico ao que vocês usarão em Java: escrever arquivo → executar → ver saída no terminal;
+2. O fluxo é idêntico ao de linguagens como Java: escrever arquivo → executar → ver saída no terminal;
 3. Menos coisas para dar errado.
 
 ## 3. Primeiro programa
 
-Com o [ambiente preparado](../../recursos/ambiente.md), crie a pasta da aula **no seu repositório da disciplina**:
+Com o [ambiente preparado](../../recursos/ambiente.md), crie a pasta da aula **no seu repositório de exercícios**:
 
 ```bash
-cd javascript-2026-2
+cd exercicios-javascript
 mkdir aula-01
 cd aula-01
 ```
@@ -60,7 +60,7 @@ Olá, mundo!
 
 - `console.log(...)` — função que **imprime** algo no terminal. Será sua melhor amiga para ver o que o programa está fazendo;
 - `"Olá, mundo!"` — um texto (*string*), sempre entre aspas;
-- `;` — fim da instrução. Em JS o ponto e vírgula é tecnicamente opcional, **mas nesta disciplina vamos usá-lo sempre** (o Java exige, então já vira hábito).
+- `;` — fim da instrução. Em JS o ponto e vírgula é tecnicamente opcional, **mas neste curso vamos usá-lo sempre** (o Java exige, então já vira hábito).
 
 ## 4. Vários `console.log` e comentários
 
@@ -78,7 +78,7 @@ console.log(2 + 3);          // imprime 5 — dá para fazer contas!
 console.log("2" + "3");      // imprime 23 — opa! Texto se "gruda". Guarde essa estranheza para a aula 2...
 ```
 
-> 💡 **Use comentários para anotar o que aprendeu.** Seus arquivos de aula são seu caderno — um `// aprendi que...` vale ouro na hora de revisar para a prova.
+> 💡 **Use comentários para anotar o que aprendeu.** Seus arquivos de aula são seu caderno — um `// aprendi que...` vale ouro na hora de revisar.
 
 ## 5. Erros são normais (e informativos)
 
@@ -98,7 +98,7 @@ O Node aponta o **arquivo**, a **linha** e o **tipo do erro**. Ler mensagens de 
 
 Crie um arquivo para cada exercício dentro de `aula-01/` (ex.: `ex01.js`, `ex02.js`):
 
-1. **`ex01.js`** — Imprima seu nome completo, seu curso e seu semestre, cada um em uma linha;
+1. **`ex01.js`** — Imprima seu nome completo, sua cidade e o que você quer construir com JavaScript, cada um em uma linha;
 2. **`ex02.js`** — Imprima o resultado de: `7 * 8`, `100 / 3` e `2 ** 10` (descubra o que `**` faz);
 3. **`ex03.js`** — Desenhe um "quadrado" 5x5 com asteriscos usando 5 `console.log`;
 4. **`ex04.js`** — Escreva um programa com um erro de propósito, execute, e **copie a mensagem de erro num comentário** no topo do arquivo, junto com a explicação do que ela significa.

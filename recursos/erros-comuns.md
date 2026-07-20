@@ -1,6 +1,6 @@
 # 🧯 Erros Comuns de JavaScript
 
-Os erros que **toda** turma comete, com diagnóstico e cura. Regra número 1: **leia a mensagem** — ela diz o tipo do erro, o arquivo e a linha.
+Os erros que **todo mundo** comete, com diagnóstico e cura. Regra número 1: **leia a mensagem** — ela diz o tipo do erro, o arquivo e a linha.
 
 ## No Node e no navegador
 
@@ -49,7 +49,7 @@ Os erros que **toda** turma comete, com diagnóstico e cura. Regra número 1: **
 
 ### `TypeError: Cannot read properties of null (reading 'textContent')`
 
-**O erro nº 1 do semestre.** O `querySelector` não encontrou o elemento e devolveu `null`.
+**O erro nº 1 do curso.** O `querySelector` não encontrou o elemento e devolveu `null`.
 **Cura, nesta ordem:**
 1. O seletor bate com o HTML? (`#id` para id, `.classe` para classe — o `#`/`.` esquecido é clássico);
 2. O `<script>` está **no final do `<body>`**? Se roda antes de o HTML existir, tudo é `null`;

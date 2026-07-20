@@ -70,7 +70,7 @@ const buscarCep = async (cep) => {
 };
 ```
 
-> 💡 `throw new Error("...")` "lança" um erro de propósito, que é capturado pelo `catch` mais próximo — centralizando todo o tratamento num lugar só. Vocês reencontrarão exatamente essa mecânica em Java (`throw` / `try` / `catch`).
+> 💡 `throw new Error("...")` "lança" um erro de propósito, que é capturado pelo `catch` mais próximo — centralizando todo o tratamento num lugar só. Você reencontrará exatamente essa mecânica em Java (`throw` / `try` / `catch`).
 
 ## 4. Fetch + DOM: o app completo
 

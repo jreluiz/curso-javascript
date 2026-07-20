@@ -12,7 +12,7 @@ Toda página é feita de três linguagens com papéis distintos:
 | **CSS** | Aparência | Pintura e decoração |
 | **JavaScript** | Comportamento | Eletricidade: interruptores, campainha |
 
-Nesta disciplina o foco é o **JavaScript** — usaremos o HTML/CSS mínimo para ter onde aplicá-lo. (Vocês não precisam ser experts em CSS para passar; precisam entender a estrutura do HTML.)
+Neste curso o foco é o **JavaScript** — usaremos o HTML/CSS mínimo para ter onde aplicá-lo. (Você não precisa ser expert em CSS; precisa entender a estrutura do HTML.)
 
 ## 2. HTML essencial em 10 minutos
 

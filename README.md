@@ -1,10 +1,10 @@
-# 🟨 Disciplina de JavaScript
+# 🟨 Curso de JavaScript
 
 > 📋 Pré-requisito: [Curso de Git e GitHub](https://github.com/jreluiz/curso-git-github) concluído.
 
-## 🎯 Objetivos da disciplina
+## 🎯 Objetivos do curso
 
-Ao final do semestre, você será capaz de:
+Ao final do curso, você será capaz de:
 
 - Programar em JavaScript com domínio de variáveis, estruturas de controle e funções;
 - Manipular arrays e objetos, incluindo os métodos funcionais (`map`, `filter`, `reduce`);
@@ -64,7 +64,7 @@ Ao final do semestre, você será capaz de:
 
 ```bash
 # ── Início da aula ──
-cd javascript-2026-2
+cd exercicios-javascript
 git pull                                # atualiza (se você usa mais de um PC)
 
 # ── Durante a aula ──
@@ -89,4 +89,4 @@ Consulte o [guia de preparação do ambiente](recursos/ambiente.md): Node.js, VS
 
 ---
 
-*Os exemplos mostrados em aula serão commitados neste repositório ao vivo. Primeiro dever de casa de toda semana: `git pull`.* 🙂
+*Este repositório continua evoluindo — exemplos e materiais novos são commitados aqui. Primeiro passo de toda sessão de estudo: `git pull`.* 🙂

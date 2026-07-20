@@ -15,7 +15,7 @@ const aluno = {
 };
 ```
 
-> 💡 **Ponte com o Java:** o objeto literal do JS é primo do objeto que vocês criarão em Java com classes. A diferença: em Java, primeiro se define a "planta" (a classe `Aluno`) e depois se constrói o objeto; em JS dá para criar o objeto diretamente, sem planta. (Classes existem em JS também — veremos na aula 16.)
+> 💡 **Ponte com o Java:** o objeto literal do JS é primo do objeto criado em Java com classes. A diferença: em Java, primeiro se define a "planta" (a classe `Aluno`) e depois se constrói o objeto; em JS dá para criar o objeto diretamente, sem planta. (Classes existem em JS também — veremos na aula 16.)
 
 ## 2. Acessando e modificando propriedades
 
@@ -59,7 +59,7 @@ console.log(aluno.endereco.cidade);   // Campinas
 aluno.apresentar();                   // Oi, eu sou Maria!
 ```
 
-> ⚠️ O `this` tem sutilezas em JS que **não** vamos aprofundar agora. Regra prática para a disciplina: dentro de um método escrito como acima, `this` é o objeto dono do método — igual ao `this` que vocês verão em Java.
+> ⚠️ O `this` tem sutilezas em JS que **não** vamos aprofundar agora. Regra prática para o curso: dentro de um método escrito como acima, `this` é o objeto dono do método — igual ao `this` do Java.
 
 ## 4. A estrutura mais comum do mundo real: array de objetos
 

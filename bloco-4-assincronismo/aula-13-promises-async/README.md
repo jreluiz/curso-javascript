@@ -41,7 +41,7 @@ Estados de uma Promise:
 Consumindo uma Promise com `.then()` e `.catch()`:
 
 ```javascript
-// buscarUsuario() retorna uma Promise (função de exemplo do professor)
+// buscarUsuario() retorna uma Promise (função fictícia, definida logo abaixo)
 buscarUsuario(1)
   .then((usuario) => {
     console.log(`Chegou: ${usuario.nome}`);   // roda QUANDO der certo
@@ -53,7 +53,7 @@ buscarUsuario(1)
 console.log("Esta linha roda ANTES do resultado chegar!");
 ```
 
-Para os curiosos, criar uma Promise (não cai na prova — mas desmistifica):
+Para os curiosos, criar uma Promise (você raramente precisará escrever uma — mas desmistifica):
 
 ```javascript
 const buscarUsuario = (id) =>
@@ -91,9 +91,9 @@ As três regras:
 
 1. **`await` só funciona dentro de função `async`**;
 2. `await promessa` "pausa" a função até a Promise resolver, e devolve o **valor** (não a Promise);
-3. Erros de Promises rejeitadas são capturados com **`try/catch`** (o mesmo `try/catch` que vocês verão em Java!).
+3. Erros de Promises rejeitadas são capturados com **`try/catch`** (o mesmo `try/catch` que existe em Java!).
 
-> 📏 **Na disciplina, usaremos `async/await` + `try/catch` como padrão.** Você precisa *ler* `.then/.catch` (a internet está cheia deles), mas *escreverá* com await.
+> 📏 **Neste curso, usaremos `async/await` + `try/catch` como padrão.** Você precisa *ler* `.then/.catch` (a internet está cheia deles), mas *escreverá* com await.
 
 ## 4. `try/catch` — conhecendo melhor
 

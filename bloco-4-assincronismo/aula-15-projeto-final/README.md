@@ -1,8 +1,8 @@
 # Aula 15 — Desenvolvimento do Projeto Final
 
-> 🎯 Objetivo: aula-laboratório dedicada ao projeto final, com o professor circulando para destravar as equipes... digo, os alunos. 😄
+> 🎯 Objetivo: aula-laboratório dedicada ao projeto final — mão na massa do início ao fim. 😄
 
-A especificação completa está em [`projetos/projeto-final.md`](../../projetos/projeto-final.md). Esta aula é o seu tempo protegido de desenvolvimento, com suporte ao vivo.
+A especificação completa está em [`projetos/projeto-final.md`](../../projetos/projeto-final.md). Reserve esta aula como o seu tempo protegido de desenvolvimento.
 
 ## Roteiro sugerido para a aula
 
@@ -24,9 +24,9 @@ Ordem que funciona — cada etapa termina com **commit**:
 6. **CSS e capricho:** aparência, responsividade básica → commit;
 7. **Pages + README:** publica e documenta → commit final.
 
-> 📏 Se travar mais de 15 minutos no mesmo erro: leia a mensagem no Console com calma, isole o problema num arquivo mínimo, e então chame o professor. Aprender a **destravar** é parte da avaliação da vida. 🙂
+> 📏 Se travar mais de 15 minutos no mesmo erro: leia a mensagem no Console com calma, isole o problema num arquivo mínimo, e consulte o [guia de erros comuns](../../recursos/erros-comuns.md). Aprender a **destravar** é parte do ofício. 🙂
 
-## Erros que vão aparecer hoje (aposto)
+## Erros que vão aparecer (aposto)
 
 | Sintoma | Provável causa |
 |---------|----------------|

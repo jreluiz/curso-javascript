@@ -38,7 +38,7 @@ console.log(5 === 5);      // true
 console.log(0 === false);  // false
 ```
 
-> 📏 **Regra da disciplina (e do mercado):** use **sempre `===` e `!==`**. Esqueça que `==` existe. As conversões automáticas do `==` são fonte clássica de bugs.
+> 📏 **Regra do curso (e do mercado):** use **sempre `===` e `!==`**. Esqueça que `==` existe. As conversões automáticas do `==` são fonte clássica de bugs.
 
 Demais comparações (retornam sempre `true` ou `false`):
 

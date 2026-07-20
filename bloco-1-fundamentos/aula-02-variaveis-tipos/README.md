@@ -14,9 +14,9 @@ idade = 20;                // ✅ ok
 nome = "João";             // ❌ TypeError: Assignment to constant variable
 ```
 
-**Regra da disciplina:** use **`const` por padrão**; só use `let` quando o valor realmente precisar mudar. Isso torna o código mais previsível.
+**Regra do curso:** use **`const` por padrão**; só use `let` quando o valor realmente precisar mudar. Isso torna o código mais previsível.
 
-> ⚠️ **E o `var`?** Em códigos antigos (e em tutoriais na internet) você verá `var`. Ele funciona, mas tem regras de escopo confusas que causam bugs. Considere o `var` **aposentado**: nesta disciplina, é `let` e `const`.
+> ⚠️ **E o `var`?** Em códigos antigos (e em tutoriais na internet) você verá `var`. Ele funciona, mas tem regras de escopo confusas que causam bugs. Considere o `var` **aposentado**: neste curso, é `let` e `const`.
 
 ### Nomes de variáveis
 

@@ -58,7 +58,7 @@ for (let i = 1; i <= 5; i++) {
 }
 ```
 
-## 4. Funções — o conceito mais importante da disciplina
+## 4. Funções — o conceito mais importante do curso
 
 Uma função é um **bloco de código com nome**, que você define uma vez e executa quantas vezes quiser:
 
@@ -147,7 +147,7 @@ console.log(local);      // ❌ ReferenceError: local is not defined
 
 Variáveis declaradas dentro de uma função (ou de um bloco `{ }`) só existem ali dentro. Isso é bom: evita que pedaços do programa interfiram uns nos outros.
 
-> 💡 **Ponte com o Java:** funções em JS ≈ métodos `static` que vocês verão em Java. `function somar(a, b)` em JS é `static int somar(int a, int b)` em Java — mesma ideia, com tipos explícitos.
+> 💡 **Ponte com o Java:** funções em JS ≈ métodos `static` do Java. `function somar(a, b)` em JS é `static int somar(int a, int b)` em Java — mesma ideia, com tipos explícitos.
 
 ## 🏋️ Exercícios da aula
 

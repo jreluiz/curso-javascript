@@ -1,11 +1,11 @@
 # 🤝 Trabalho em Dupla — Quiz via Pull Request
 
 > 📅 Lançado no Bloco 3 (após a aula 11)
-> 👥 Duplas definidas em aula
+> 👥 Chame um colega — o trabalho é feito em dupla
 
 ## Objetivo
 
-Construir, **em dupla e via Pull Requests**, um **quiz interativo** de 8+ perguntas sobre qualquer tema (a própria disciplina, cultura pop, esportes...). Além do JavaScript, este trabalho exercita o **fluxo de colaboração Git** do Módulo 6 do curso de Git/GitHub.
+Construir, **em dupla e via Pull Requests**, um **quiz interativo** de 8+ perguntas sobre qualquer tema (o próprio curso, cultura pop, esportes...). Além do JavaScript, este trabalho exercita o **fluxo de colaboração Git** do Módulo 6 do curso de Git/GitHub.
 
 ## A dinâmica de colaboração
 
@@ -42,4 +42,4 @@ O quiz deve:
 
 ## Entrega
 
-Enviar pelo canal combinado: link do **repositório** + link do **Pages**.
+Trabalho pronto = repositório público + link do **Pages** funcionando no README. Bônus: mandem o quiz para os amigos responderem! 🎉

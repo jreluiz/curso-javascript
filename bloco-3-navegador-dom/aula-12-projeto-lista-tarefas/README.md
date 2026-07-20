@@ -134,7 +134,7 @@ O `style.css` pronto (com `.concluida` riscando o texto) está em [`style.css`](
 
 ## 4. 🚀 Publicando no GitHub Pages
 
-Hora do momento mais legal do semestre: colocar seu projeto **na internet, de graça**.
+Hora do momento mais legal do curso: colocar seu projeto **na internet, de graça**.
 
 O GitHub Pages serve páginas estáticas direto de um repositório:
 

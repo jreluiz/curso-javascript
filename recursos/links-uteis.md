@@ -22,7 +22,7 @@
 - [GitHub Pages — documentação](https://docs.github.com/pt/pages) — publicação dos projetos;
 - Console do navegador (F12) — sua ferramenta nº 1; [guia do Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=pt-br).
 
-## 🎓 Materiais da disciplina
+## 🎓 Materiais do curso
 
 - [Curso de Git e GitHub](https://github.com/jreluiz/curso-git-github) (pré-requisito);
 - [Guia de erros comuns](erros-comuns.md) · [Preparação do ambiente](ambiente.md).

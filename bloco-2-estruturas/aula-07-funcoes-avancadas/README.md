@@ -52,7 +52,7 @@ const corpoGrande = (a, b) => {             // mais de uma linha: { } e return
 };
 ```
 
-> 📏 **Na disciplina:** usaremos arrow functions como padrão para funções guardadas em variáveis e callbacks. `function` declarada continua ótima para funções "principais" com nome.
+> 📏 **Neste curso:** usaremos arrow functions como padrão para funções guardadas em variáveis e callbacks. `function` declarada continua ótima para funções "principais" com nome.
 
 ## 3. Callbacks — passando comportamento
 

@@ -16,11 +16,11 @@ node --version     # deve mostrar algo como v22.x.x
 
 Teste rápido: crie um arquivo `teste.js` com `console.log("funciona!")` e rode `node teste.js`.
 
-> ⚠️ **Não usaremos `npm install` nesta disciplina.** Node puro basta — e assim ninguém corre o risco de commitar uma pasta `node_modules` gigante (o `.gitignore` protege de qualquer forma).
+> ⚠️ **Não usaremos `npm install` neste curso.** Node puro basta — e assim ninguém corre o risco de commitar uma pasta `node_modules` gigante (o `.gitignore` protege de qualquer forma).
 
 ## 2. VS Code
 
-Editor oficial da disciplina: <https://code.visualstudio.com/>.
+Editor oficial do curso: <https://code.visualstudio.com/>.
 
 Extensões recomendadas (aba de extensões, `Ctrl+Shift+X`):
 
@@ -45,16 +45,16 @@ git --version
 git config --list      # user.name e user.email devem aparecer
 ```
 
-## 4. O repositório da disciplina
+## 4. O repositório de exercícios
 
-Se ainda não fez o Exercício 05 do curso de Git, faça agora: crie o repositório **`javascript-2026-2`** com `.gitignore` de Node e README. É nele que **todas** as aulas serão entregues.
+Se ainda não fez o Exercício 05 do curso de Git, faça agora: crie o repositório **`exercicios-javascript`** com `.gitignore` de Node e README. É nele que **todas** as aulas serão entregues.
 
 ## ✅ Checklist final
 
 - [ ] `node --version` responde;
 - [ ] VS Code com Live Server instalado;
 - [ ] `git config --list` mostra seu nome e e-mail;
-- [ ] Repositório `javascript-2026-2` criado e com push funcionando.
+- [ ] Repositório `exercicios-javascript` criado e com push funcionando.
 
 ---
 
