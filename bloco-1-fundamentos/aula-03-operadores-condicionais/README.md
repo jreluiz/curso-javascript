@@ -155,6 +155,10 @@ Na pasta `aula-03/`:
    ```
 6. **Desafio 🌶️ `ex06.js`** — Um ano é bissexto se for divisível por 4, **exceto** os divisíveis por 100 que não sejam divisíveis por 400. Verifique com 2024 (✅), 1900 (❌) e 2000 (✅).
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

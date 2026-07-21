@@ -36,6 +36,10 @@ Ordem que funciona — cada etapa termina com **commit**:
 | `Failed to fetch` | URL errada, sem internet, ou API fora do ar — teste a URL no navegador |
 | Página do Pages desatualizada | Esqueceu o push, ou o cache — force com Ctrl+Shift+R |
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) sobre diagnóstico de erros e método de trabalho — o conteúdo desta aula. Responda sem consultar — depois volte e corrija.
+
 ## Checklist de fim de aula
 
 - [ ] Pelo menos as fatias 1–3 concluídas e **commitadas**;

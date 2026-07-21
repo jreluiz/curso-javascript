@@ -139,6 +139,10 @@ Na pasta `aula-06/`:
 5. **`ex05.js`** — Converta o array de produtos em JSON com `JSON.stringify(produtos, null, 2)` (descubra o que os argumentos extras fazem) e imprima. Depois faça o caminho inverso com `JSON.parse` e prove que voltou a ser objeto acessando uma propriedade;
 6. **Desafio 🌶️ `ex06.js`** — Escreva `buscarPorNome(lista, nome)` que retorna o **objeto** do produto com aquele nome, ou `null` se não existir. Use desestruturação em algum ponto da solução.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

@@ -112,6 +112,10 @@ Isso é um portfólio inicial real — recrutadores olham exatamente para isso e
 4. Renderize a lista numa página HTML com um campo de busca que filtra por nome enquanto digita (evento `input`);
 5. Commite com uma boa mensagem e dê push. 😉
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) sobre classes e o fechamento do curso. Responda sem consultar a aula — depois volte e corrija.
+
 ## 🎓 Fim!
 
 Parabéns por chegar aqui. Você começou o curso sem saber o que era uma variável em JS e terminou publicando aplicações que consomem APIs reais, com fluxo de trabalho profissional. Siga commitando.

@@ -149,6 +149,10 @@ Na pasta `aula-14/`:
 3. **Feriados do ano** — Com a BrasilAPI, busque os feriados de 2026 e renderize uma lista `data — nome`. Repare: a resposta é um **array** — use seu `forEach`/`map`;
 4. **Desafio 🌶️** — No exercício 3, adicione um `<select>` com os meses; ao escolher, mostre apenas os feriados daquele mês (`filter` sobre os dados já baixados — sem buscar de novo!).
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

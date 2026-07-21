@@ -125,6 +125,10 @@ Na pasta `aula-09/`:
 4. Provoque um erro de propósito no `script.js` (chame uma função que não existe), veja como ele aparece no Console e anote num comentário a mensagem e a linha indicada;
 5. **Desafio 🌶️** — Pesquise a função `prompt()` (prima do `alert`). Peça o nome do visitante e dê `console.log` de uma saudação personalizada. Spoiler: na aula 11 faremos isso do jeito profissional, com `input` e botão.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

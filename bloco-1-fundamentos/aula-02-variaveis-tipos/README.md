@@ -128,6 +128,10 @@ Na pasta `aula-02/` do seu repositório:
 4. **`ex04.js`** — Dada uma string com seu nome completo, imprima: o total de caracteres, tudo em maiúsculas, e se contém a letra "a" (use `.includes`);
 5. **Desafio 🌶️ `ex05.js`** — `const preco = "1250.50"` chegou como string. Converta e imprima o valor com 10% de desconto, formatado: `O preço com desconto é R$ 1125.45` (pesquise o método `.toFixed(2)`).
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

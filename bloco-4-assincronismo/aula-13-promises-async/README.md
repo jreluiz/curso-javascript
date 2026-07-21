@@ -121,6 +121,10 @@ Na pasta `aula-13/` (rodando no Node):
 4. **`ex04.js`** — Crie `esperar(ms)` que retorna uma Promise que resolve após `ms` milissegundos (dica: `new Promise` + `setTimeout` + `resolve`). Use-a numa função async para imprimir uma contagem regressiva 3, 2, 1, 🚀 com 1 segundo entre cada;
 5. **Desafio 🌶️ `ex05.js`** — Crie `sortearComDemora()` : uma Promise que após 1s resolve com um número de 1 a 10, mas **rejeita** se o número sorteado for maior que 7 ("Número alto demais!"). Chame-a 5 vezes numa função async com try/catch dentro de um laço, mostrando sucesso ou erro de cada tentativa.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

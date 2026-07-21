@@ -130,6 +130,10 @@ const alunos = [
 5. **`ex05.js`** — **Encadeando:** média geral **apenas dos alunos de SI** (filter → reduce); lista dos nomes dos aprovados em ordem alfabética (filter → map → sort);
 6. **Desafio 🌶️ `ex06.js`** — Gere um "boletim" em texto: uma única string com uma linha por aluno (`Nome — média X — situação`), construída com map + join. Imprima com um único `console.log`.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

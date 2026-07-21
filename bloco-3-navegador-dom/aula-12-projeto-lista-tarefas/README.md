@@ -160,6 +160,10 @@ https://SEU-USUARIO.github.io/lista-de-tarefas/
 4. **Prioridade**: um `<select>` (alta/média/baixa) ao adicionar; tarefas de alta prioridade ganham uma classe de destaque;
 5. 🌶️ **Persistência com `localStorage`**: pesquise `localStorage.setItem/getItem` + `JSON.stringify/parse` (aula 06!) para as tarefas sobreviverem ao recarregar a página.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) sobre a arquitetura do projeto e a publicação no Pages. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 - Projeto no repositório próprio, **publicado no Pages**;

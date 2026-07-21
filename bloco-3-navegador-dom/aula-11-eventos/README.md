@@ -139,6 +139,10 @@ Na pasta `aula-11/` (cada exercício é uma mini página):
 4. **Contador de caracteres** — Um `<textarea>` e um parágrafo `X/140 caracteres` atualizado a cada tecla (evento `input`). Passou de 140, o contador fica vermelho;
 5. **Desafio 🌶️ Lista dinâmica** — Campo + botão "Adicionar": cada item digitado vira um `<li>` na lista (validado contra vazio). É o aquecimento direto para o projeto da próxima aula!
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

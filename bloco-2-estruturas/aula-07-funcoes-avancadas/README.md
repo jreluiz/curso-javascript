@@ -135,6 +135,10 @@ Na pasta `aula-07/`:
 5. **`ex05.js`** — Use **rest** para criar `media(...notas)` que aceita qualquer quantidade de notas. Depois use **spread** para chamá-la com um array existente: `media(...minhasNotas)`;
 6. **Desafio 🌶️ `ex06.js`** — Prove a diferença entre `const b = a` e `const b = [...a]` para arrays: altere `b` nos dois cenários e mostre com `console.log` o que acontece com `a` em cada caso. Explique num comentário.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

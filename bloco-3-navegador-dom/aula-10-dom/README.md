@@ -121,6 +121,10 @@ Na pasta `aula-10/` (um subprojeto `index.html` + `script.js` por exercício, ou
 4. **Tabela de alunos** — Reaproveite o array de alunos da aula 08 e renderize `Nome — média — situação` como itens de lista, adicionando a classe `aprovado` ou `reprovado` (defina as cores no CSS);
 5. **Desafio 🌶️ Filtro renderizado** — No exercício 4, renderize **duas** listas: uma com todos e outra apenas com os aprovados (use `filter` antes de renderizar). Extraia uma função `renderizarLista(alunos, elementoUl)` para não duplicar código.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

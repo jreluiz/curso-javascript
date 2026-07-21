@@ -103,6 +103,10 @@ Crie um arquivo para cada exercício dentro de `aula-01/` (ex.: `ex01.js`, `ex02
 3. **`ex03.js`** — Desenhe um "quadrado" 5x5 com asteriscos usando 5 `console.log`;
 4. **`ex04.js`** — Escreva um programa com um erro de propósito, execute, e **copie a mensagem de erro num comentário** no topo do arquivo, junto com a explicação do que ela significa.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash

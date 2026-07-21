@@ -160,6 +160,10 @@ Na pasta `aula-04/`:
 5. **`ex05.js`** — Escreva `fatorial(n)` usando um laço (5! = 5×4×3×2×1 = 120). O que acontece com `fatorial(0)`? (Matematicamente, deve dar 1);
 6. **Desafio 🌶️ `ex06.js`** — FizzBuzz, o clássico de entrevistas de emprego: para os números de 1 a 100, imprima "Fizz" se divisível por 3, "Buzz" se divisível por 5, "FizzBuzz" se divisível por ambos, e o próprio número caso contrário.
 
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
+
 ## ✅ Entrega
 
 ```bash
