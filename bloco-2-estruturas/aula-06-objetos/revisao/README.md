@@ -116,7 +116,7 @@ console.log(typeof texto);
 Sobre o formato JSON, é correto afirmar que:
 
 - **a)** é o objeto JavaScript em memória, idêntico em tudo ao objeto literal;
-- **b)** é um formato de **texto** para representar dados, no qual chaves e strings usam sempre aspas duplas;
+- **b)** é um formato de texto para representar dados, no qual chaves e strings usam sempre aspas duplas;
 - **c)** aceita apenas números e booleanos, nunca texto;
 - **d)** só existe no navegador; no Node é preciso usar outro formato.
 

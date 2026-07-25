@@ -13,7 +13,7 @@ Para os fins do curso, uma API é:
 - **a)** um programa que precisa ser instalado no computador do usuário;
 - **b)** uma biblioteca JavaScript usada para criar páginas;
 - **c)** o banco de dados de um site;
-- **d)** um endereço na internet que devolve **dados** (geralmente em JSON) em vez de páginas.
+- **d)** um endereço na internet que devolve dados (geralmente em JSON) em vez de páginas.
 
 ↩︎ *Aula 14, seção 1 — O que é uma API?*
 
@@ -41,7 +41,7 @@ const dados = await resposta.json();
 
 Quando o servidor responde com erro **404**, o `fetch`:
 
-- **a)** **não** rejeita a Promise — é preciso checar `resposta.ok` e lançar o erro manualmente;
+- **a)** não rejeita a Promise — é preciso checar `resposta.ok` e lançar o erro manualmente;
 - **b)** rejeita a Promise, e o `catch` captura o erro automaticamente;
 - **c)** devolve `null` em vez do objeto de resposta;
 - **d)** repete a requisição sozinho até obter sucesso.
@@ -64,7 +64,7 @@ if (dados.erro) {
 
 - **a)** Porque todo JSON tem uma propriedade `erro`;
 - **b)** porque `resposta.ok` não funciona com o ViaCEP;
-- **c)** porque o ViaCEP responde com **sucesso** mesmo para um CEP inexistente, sinalizando o problema dentro do próprio JSON;
+- **c)** porque o ViaCEP responde com sucesso mesmo para um CEP inexistente, sinalizando o problema dentro do próprio JSON;
 - **d)** porque é assim que se verifica se a internet caiu.
 
 ↩︎ *Aula 14, seção 3 — Tratando os DOIS tipos de erro*

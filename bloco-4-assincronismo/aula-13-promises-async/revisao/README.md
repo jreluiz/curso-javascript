@@ -113,7 +113,7 @@ No bloco `try/catch/finally`, o `finally`:
 
 - **a)** executa sempre, com ou sem erro — útil, por exemplo, para esconder um "carregando...";
 - **b)** executa somente quando ocorre um erro;
-- **c)** executa somente quando **não** ocorre erro;
+- **c)** executa somente quando não ocorre erro;
 - **d)** é obrigatório sempre que se usa `try`.
 
 ↩︎ *Aula 13, seção 4 — `try/catch`*

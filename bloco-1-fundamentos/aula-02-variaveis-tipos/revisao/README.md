@@ -60,7 +60,7 @@ console.log(typeof resposta);
 
 A diferença entre `null` e `undefined` é que:
 
-- **a)** `null` representa a ausência **intencional** de valor, enquanto `undefined` é o estado de uma variável declarada sem valor atribuído;
+- **a)** `null` representa a ausência intencional de valor, enquanto `undefined` é o estado de uma variável declarada sem valor atribuído;
 - **b)** são sinônimos, apenas escritos de formas diferentes;
 - **c)** `null` equivale ao número 0 e `undefined` equivale à string vazia;
 - **d)** `undefined` só aparece dentro de funções e `null` só em variáveis globais.

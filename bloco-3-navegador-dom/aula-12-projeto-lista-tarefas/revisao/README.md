@@ -85,7 +85,7 @@ const pendentes = tarefas.filter((t) => !t.concluida).length;
 
 - **a)** Quantas tarefas já foram concluídas;
 - **b)** o total de tarefas da lista;
-- **c)** quantas tarefas ainda **não** foram concluídas;
+- **c)** quantas tarefas ainda não foram concluídas;
 - **d)** o índice da primeira tarefa pendente.
 
 ↩︎ *Aula 12, seção 3 — Etapa 1*
