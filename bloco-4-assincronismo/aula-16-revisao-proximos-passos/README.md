@@ -4,18 +4,24 @@
 
 ## 1. O mapa do curso em uma tela
 
-```
-BLOCO 1                BLOCO 2                 BLOCO 3               BLOCO 4
-Fundamentos            Estruturas              Navegador             Assíncrono
-─────────────          ─────────────           ─────────────         ─────────────
-let / const            arrays                  HTML + CSS            setTimeout
-tipos + coerção        objetos + JSON          querySelector         Promises
-=== e truthy           arrow functions         textContent           async/await
-if / switch            callbacks    ──────▶    classList     ──────▶ try/catch
-while / for            map/filter/reduce       createElement         fetch
-funções + return       rest/spread             addEventListener      APIs + JSON
-                                               .value + validação
-        └──────────────── tudo versionado com Git, entregue via GitHub ────────────────┘
+```mermaid
+flowchart LR
+    subgraph B1["BLOCO 1 — Fundamentos"]
+        A1["let / const<br>tipos + coerção<br>=== e truthy<br>if / switch<br>while / for<br>funções + return"]
+    end
+    subgraph B2["BLOCO 2 — Estruturas"]
+        A2["arrays<br>objetos + JSON<br>arrow functions<br>callbacks<br>map/filter/reduce<br>rest/spread"]
+    end
+    subgraph B3["BLOCO 3 — Navegador"]
+        A3["HTML + CSS<br>querySelector<br>textContent<br>classList<br>createElement<br>addEventListener<br>.value + validação"]
+    end
+    subgraph B4["BLOCO 4 — Assíncrono"]
+        A4["setTimeout<br>Promises<br>async/await<br>try/catch<br>fetch<br>APIs + JSON"]
+    end
+    B1 --> B2 --> B3 --> B4
+    GIT["tudo versionado com Git, entregue via GitHub"]
+    B1 -.- GIT
+    B4 -.- GIT
 ```
 
 Repare como cada bloco usou o anterior: os callbacks (B2) viraram event listeners (B3); os objetos e o JSON (B2) viraram respostas de API (B4); a validação (B3) protegeu o fetch (B4). Programação é acumulativa.

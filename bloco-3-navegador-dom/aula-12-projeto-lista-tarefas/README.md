@@ -6,16 +6,12 @@ Hoje não há conteúdo novo — há **integração**. Vamos construir juntos, p
 
 ## 1. A arquitetura: estado → eventos → renderização
 
-```
-        ┌─────────────────────┐
-        │       ESTADO         │   const tarefas = [ {texto, concluida}, ... ]
-        │  (array de objetos)  │
-        └─────────┬───────────┘
-        eventos   │   renderizar()
-        alteram ▲ │ ▼ redesenha a tela
-        ┌─────────┴───────────┐
-        │        TELA          │   <ul> com os <li> das tarefas
-        └─────────────────────┘
+```mermaid
+flowchart TD
+    ESTADO["<b>ESTADO</b> (array de objetos)<br><code>const tarefas = [ {texto, concluida}, ... ]</code>"]
+    TELA["<b>TELA</b><br><code>&lt;ul&gt;</code> com os <code>&lt;li&gt;</code> das tarefas"]
+    ESTADO -->|"renderizar() redesenha a tela"| TELA
+    TELA -->|"eventos alteram o estado"| ESTADO
 ```
 
 Regra de ouro do projeto: **os eventos nunca mexem na tela diretamente — eles mexem no array e chamam `renderizar()`**, que redesenha tudo a partir do estado. Uma única fonte de verdade.
