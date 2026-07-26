@@ -1,6 +1,7 @@
 # Aula 15 — Desenvolvimento do Projeto Final
 
 > 🎯 Objetivo: aula-laboratório dedicada ao projeto final — mão na massa do início ao fim. 😄
+> 🎬 Slides da aula: [apresentacao-15-projeto-final.pdf](apresentacao/apresentacao-15-projeto-final.pdf)
 
 A especificação completa está em [`projetos/projeto-final.md`](../../projetos/projeto-final.md). Reserve esta aula como o seu tempo protegido de desenvolvimento.
 

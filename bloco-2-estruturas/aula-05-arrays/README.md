@@ -1,6 +1,7 @@
 # Aula 05 — Arrays
 
 > 🎯 Objetivos: guardar coleções de valores, acessar e modificar elementos, e percorrer arrays de três formas.
+> 🎬 Slides da aula: [apresentacao-05-arrays.pdf](apresentacao/apresentacao-05-arrays.pdf)
 
 ## 1. O problema que o array resolve
 

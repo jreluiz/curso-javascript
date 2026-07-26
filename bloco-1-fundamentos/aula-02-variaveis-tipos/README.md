@@ -1,6 +1,7 @@
 # Aula 02 — Variáveis e Tipos
 
 > 🎯 Objetivos: declarar variáveis com `let` e `const`, conhecer os tipos primitivos e entender as famosas "pegadinhas" de tipos do JS.
+> 🎬 Slides da aula: [apresentacao-02-variaveis-tipos.pdf](apresentacao/apresentacao-02-variaveis-tipos.pdf)
 
 ## 1. Variáveis: `let` e `const`
 

@@ -1,6 +1,7 @@
 # Aula 01 — Introdução ao JavaScript
 
 > 🎯 Objetivos: entender o que é JavaScript, onde ele roda, e escrever seus primeiros programas com Node.js.
+> 🎬 Slides da aula: [apresentacao-01-introducao.pdf](apresentacao/apresentacao-01-introducao.pdf)
 
 ## 1. O que é JavaScript?
 

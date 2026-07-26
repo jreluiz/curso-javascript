@@ -1,6 +1,7 @@
 # Aula 06 — Objetos
 
 > 🎯 Objetivos: representar "coisas do mundo real" com objetos, combinar objetos e arrays, e conhecer JSON e desestruturação.
+> 🎬 Slides da aula: [apresentacao-06-objetos.pdf](apresentacao/apresentacao-06-objetos.pdf)
 
 ## 1. O problema que o objeto resolve
 

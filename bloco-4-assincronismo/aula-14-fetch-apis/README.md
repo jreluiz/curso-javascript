@@ -1,6 +1,7 @@
 # Aula 14 — Fetch: Consumindo APIs Reais
 
 > 🎯 Objetivos: buscar dados reais da internet com `fetch`, tratar erros e exibir o resultado na página.
+> 🎬 Slides da aula: [apresentacao-14-fetch-apis.pdf](apresentacao/apresentacao-14-fetch-apis.pdf)
 
 ## 1. O que é uma API?
 

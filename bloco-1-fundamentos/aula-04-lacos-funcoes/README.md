@@ -1,6 +1,7 @@
 # Aula 04 — Laços e Funções
 
 > 🎯 Objetivos: repetir tarefas com `while` e `for`, e organizar o código em funções reutilizáveis.
+> 🎬 Slides da aula: [apresentacao-04-lacos-funcoes.pdf](apresentacao/apresentacao-04-lacos-funcoes.pdf)
 
 ## 1. `while` — repita enquanto for verdade
 

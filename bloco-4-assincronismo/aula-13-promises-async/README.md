@@ -1,6 +1,7 @@
 # Aula 13 — Assincronismo: Promises e async/await
 
 > 🎯 Objetivos: entender por que existe código assíncrono, ler Promises e escrever `async/await` — a preparação direta para consumir APIs.
+> 🎬 Slides da aula: [apresentacao-13-promises-async.pdf](apresentacao/apresentacao-13-promises-async.pdf)
 
 ## 1. O problema: coisas que demoram
 

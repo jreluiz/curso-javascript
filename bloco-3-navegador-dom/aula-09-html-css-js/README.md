@@ -1,6 +1,7 @@
 # Aula 09 — HTML + CSS + JavaScript no Navegador
 
 > 🎯 Objetivos: entender o trio da web, escrever o HTML/CSS mínimo necessário e rodar JavaScript no navegador.
+> 🎬 Slides da aula: [apresentacao-09-html-css-js.pdf](apresentacao/apresentacao-09-html-css-js.pdf)
 
 ## 1. O trio da web
 

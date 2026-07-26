@@ -1,6 +1,7 @@
 # Aula 08 — Métodos Funcionais de Arrays
 
 > 🎯 Objetivos: dominar `map`, `filter`, `reduce` e companhia — o jeito profissional de trabalhar com listas.
+> 🎬 Slides da aula: [apresentacao-08-metodos-funcionais.pdf](apresentacao/apresentacao-08-metodos-funcionais.pdf)
 
 Na aula passada você **reinventou** `map` e `filter` nos exercícios. Agora vamos usar os oficiais: métodos que todo array já tem e que recebem **callbacks**.
 

@@ -1,6 +1,7 @@
 # Aula 16 — Revisão e Próximos Passos
 
 > 🎯 Objetivos: consolidar o mapa do que foi aprendido, conhecer classes em JS (a ponte com Java) e saber o que estudar depois.
+> 🎬 Slides da aula: [apresentacao-16-revisao-proximos-passos.pdf](apresentacao/apresentacao-16-revisao-proximos-passos.pdf)
 
 ## 1. O mapa do curso em uma tela
 

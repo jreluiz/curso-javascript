@@ -1,6 +1,7 @@
 # Aula 12 — Projeto Guiado: Lista de Tarefas + GitHub Pages
 
 > 🎯 Objetivos: construir uma aplicação completa integrando todo o Bloco 3 e **publicá-la na internet**.
+> 🎬 Slides da aula: [apresentacao-12-projeto-lista-tarefas.pdf](apresentacao/apresentacao-12-projeto-lista-tarefas.pdf)
 
 Hoje não há conteúdo novo — há **integração**. Vamos construir juntos, passo a passo, uma lista de tarefas com adicionar, concluir e remover. É o "olá mundo" das aplicações de verdade.
 

@@ -1,6 +1,7 @@
 # Aula 03 — Operadores e Condicionais
 
 > 🎯 Objetivos: comparar valores do jeito certo (`===`), tomar decisões com `if`/`else` e `switch`, e entender truthy/falsy.
+> 🎬 Slides da aula: [apresentacao-03-operadores-condicionais.pdf](apresentacao/apresentacao-03-operadores-condicionais.pdf)
 
 ## 1. Operadores aritméticos e de atribuição
 

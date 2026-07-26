@@ -1,6 +1,7 @@
 # Aula 11 — Eventos: a Página Reage ao Usuário
 
 > 🎯 Objetivos: reagir a cliques, teclado e digitação com `addEventListener`, e ler valores de inputs com validação.
+> 🎬 Slides da aula: [apresentacao-11-eventos.pdf](apresentacao/apresentacao-11-eventos.pdf)
 
 ## 1. O que é um evento?
 

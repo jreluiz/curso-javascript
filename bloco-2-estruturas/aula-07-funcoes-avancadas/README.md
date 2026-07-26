@@ -1,6 +1,7 @@
 # Aula 07 — Funções Avançadas
 
 > 🎯 Objetivos: entender que funções são valores, dominar arrow functions e callbacks — a chave para o resto do curso.
+> 🎬 Slides da aula: [apresentacao-07-funcoes-avancadas.pdf](apresentacao/apresentacao-07-funcoes-avancadas.pdf)
 
 ## 1. A grande ideia: funções são valores
 

@@ -1,6 +1,7 @@
 # Aula 10 — DOM: JavaScript Controlando a Página
 
 > 🎯 Objetivos: selecionar elementos da página, alterar conteúdo/estilo/classes, e criar e remover elementos.
+> 🎬 Slides da aula: [apresentacao-10-dom.pdf](apresentacao/apresentacao-10-dom.pdf)
 
 ## 1. O que é o DOM?
 
