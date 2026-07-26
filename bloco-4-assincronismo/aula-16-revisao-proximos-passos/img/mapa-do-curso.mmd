@@ -1,0 +1,42 @@
+---
+config:
+  theme: base
+  # fontFamily precisa ser chave de topo — dentro de themeVariables é ignorada
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 20px
+    lineColor: "#c9a800"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 40
+    rankSpacing: 55
+    padding: 16
+---
+flowchart LR
+    subgraph B1["BLOCO 1 — Fundamentos"]
+        A1["let / const<br>tipos + coerção<br>=== e truthy<br>if / switch<br>while / for<br>funções + return"]
+    end
+    subgraph B2["BLOCO 2 — Estruturas"]
+        A2["arrays<br>objetos + JSON<br>arrow functions<br>callbacks<br>map/filter/reduce<br>rest / spread"]
+    end
+    subgraph B3["BLOCO 3 — Navegador"]
+        A3["HTML + CSS<br>querySelector<br>textContent<br>classList<br>createElement<br>addEventListener"]
+    end
+    subgraph B4["BLOCO 4 — Assíncrono"]
+        A4["setTimeout<br>Promises<br>async / await<br>try / catch<br>fetch<br>APIs + JSON"]
+    end
+
+    B1 --> B2 --> B3 --> B4
+
+    classDef caixa fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a
+    class A1,A2,A3,A4 caixa
+
+    style B1 fill:#f6f4ef,stroke:#c9c4b8,stroke-width:2px,color:#5c5c5c
+    style B2 fill:#f6f4ef,stroke:#c9c4b8,stroke-width:2px,color:#5c5c5c
+    style B3 fill:#f6f4ef,stroke:#c9c4b8,stroke-width:2px,color:#5c5c5c
+    style B4 fill:#f6f4ef,stroke:#c9c4b8,stroke-width:2px,color:#5c5c5c
+
+    linkStyle 0,1,2 stroke:#c9a800,stroke-width:3.5px

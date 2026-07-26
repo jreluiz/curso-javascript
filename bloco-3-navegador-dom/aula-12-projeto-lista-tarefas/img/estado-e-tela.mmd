@@ -1,0 +1,28 @@
+---
+config:
+  theme: base
+  # fontFamily precisa ser chave de topo — dentro de themeVariables é ignorada
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 23px
+    lineColor: "#c9a800"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 70
+    rankSpacing: 80
+    padding: 22
+---
+flowchart LR
+    ESTADO["<b>ESTADO</b><br><br>o array de objetos<br><i>a única fonte de verdade</i>"]
+    TELA["<b>TELA</b><br><br>os &lt;li&gt; da lista<br><i>só um reflexo do estado</i>"]
+
+    ESTADO -->|"<b>renderizar()</b><br>redesenha tudo"| TELA
+    TELA -->|"<b>eventos</b><br>alteram o array"| ESTADO
+
+    classDef caixa fill:#fdf9e3,stroke:#c9a800,stroke-width:4px,color:#1a1a1a
+    class ESTADO,TELA caixa
+
+    linkStyle 0,1 stroke:#c9a800,stroke-width:3.5px
