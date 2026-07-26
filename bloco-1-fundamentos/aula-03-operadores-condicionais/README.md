@@ -93,8 +93,8 @@ Dentro de um `if`, o JS aceita **qualquer valor**, não só booleanos. Valores s
 
 **Os 6 valores falsy** (decore — todo o resto é truthy):
 
-```javascript
-false, 0, "" (string vazia), null, undefined, NaN
+```
+false    0    ""  (string vazia)    null    undefined    NaN
 ```
 
 ```javascript
