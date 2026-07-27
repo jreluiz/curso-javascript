@@ -84,7 +84,7 @@ Os erros que **todo mundo** comete, com diagnóstico e cura. Regra número 1: **
 1. **Leia o erro** (tipo, arquivo, linha);
 2. **`console.log` em tudo** que estiver suspeito — variáveis, objetos, "cheguei aqui!";
 3. **Isole:** reproduza o problema no menor código possível;
-4. **Explique em voz alta** para alguém (ou para um pato de borracha — [é uma técnica real](https://pt.wikipedia.org/wiki/Debug_com_pato_de_borracha));
+4. **Explique em voz alta** para alguém (ou para um pato de borracha — [é uma técnica real](https://pt.wikipedia.org/wiki/Debug_com_Pato_de_Borracha));
 5. Só então pesquise/pergunte — já sabendo descrever o problema com precisão.
 
 ---
