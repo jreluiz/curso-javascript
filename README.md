@@ -48,15 +48,8 @@ Ao final do curso, você será capaz de:
 |:---:|------|----------|
 | 13 | [Promises e async/await](bloco-4-assincronismo/aula-13-promises-async/README.md) | Código assíncrono, `setTimeout`, Promises |
 | 14 | [Fetch e APIs](bloco-4-assincronismo/aula-14-fetch-apis/README.md) | Consumindo APIs reais (ViaCEP), JSON, erros |
-| 15 | [Projeto final](bloco-4-assincronismo/aula-15-projeto-final/README.md) | Desenvolvimento orientado do projeto |
+| 15 | [Laboratório: app com API](bloco-4-assincronismo/aula-15-projeto-final/README.md) | Construir e publicar um app que consome uma API real |
 | 16 | [Revisão e próximos passos](bloco-4-assincronismo/aula-16-revisao-proximos-passos/README.md) | Classes (ponte com Java), o que estudar depois |
-
-## 📦 Projetos práticos
-
-| Projeto | Quando | Modalidade |
-|---------|:---:|------------|
-| [Trabalho em dupla — Quiz via Pull Request](projetos/trabalho-em-dupla.md) | Bloco 3 | Dupla (fork + PR) |
-| [Projeto final — App com API](projetos/projeto-final.md) | Bloco 4 | Individual |
 
 ## 🔁 O ritual Git de toda aula
 
@@ -83,6 +76,7 @@ Consulte o [guia de preparação do ambiente](recursos/ambiente.md): Node.js, VS
 
 ## ⚡ Links rápidos
 
+- 📅 [Cronograma da turma 2026/2](CRONOGRAMA.md) — as datas dos encontros, se você está cursando isto numa turma
 - 🧯 [Erros comuns de JavaScript](recursos/erros-comuns.md)
 - 🔗 [Links úteis](recursos/links-uteis.md)
 - 📚 [Curso de Git e GitHub](https://github.com/jreluiz/curso-git-github) (pré-requisito)

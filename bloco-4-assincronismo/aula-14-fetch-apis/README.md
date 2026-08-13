@@ -124,11 +124,11 @@ campo.addEventListener("keydown", (e) => {
 });
 ```
 
-Repare no ciclo de **feedback ao usuário**: carregando → sucesso ou erro. Todo app decente faz isso — e é requisito do projeto final.
+Repare no ciclo de **feedback ao usuário**: carregando → sucesso ou erro. Todo app decente faz isso — e você vai precisar dele no laboratório da Aula 15.
 
 ## 5. APIs abertas para explorar
 
-Todas gratuitas e sem chave de acesso — candidatas para o projeto final:
+Todas gratuitas e sem chave de acesso — é daqui que sai o app do laboratório da Aula 15:
 
 | API | O que faz | Exemplo |
 |-----|-----------|---------|
@@ -164,4 +164,4 @@ git push
 
 ---
 
-⬅️ [Aula 13](../aula-13-promises-async/README.md) | ➡️ [Aula 15 — Projeto Final](../aula-15-projeto-final/README.md)
+⬅️ [Aula 13](../aula-13-promises-async/README.md) | ➡️ [Aula 15 — Laboratório: app com API](../aula-15-projeto-final/README.md)

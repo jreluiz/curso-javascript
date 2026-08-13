@@ -145,7 +145,7 @@ Todo aplicativo decente faz isso.
 Sem o "carregando", o usuário clica de novo
 achando que não funcionou.
 
-É requisito do projeto final.
+Você vai precisar dele na Aula 15.
 
 ---
 
@@ -182,7 +182,7 @@ Na pasta `aula-14/`:
 
 ## ➡️ Próxima aula
 
-**Aula 15 — Projeto Final**
+**Aula 15 — Laboratório: app com API**
 
 Tudo do curso, num aplicativo só —
 seu, publicado, com o seu nome.

@@ -1,6 +1,6 @@
 # Aula 15 — Revisão: Múltipla Escolha
 
-> 🎯 8 questões sobre a [Aula 15 — Desenvolvimento do Projeto Final](../README.md). Só uma alternativa está correta em cada uma.
+> 🎯 8 questões sobre a [Aula 15 — Laboratório: um app que consome API](../README.md). Só uma alternativa está correta em cada uma.
 
 Esta aula não traz conteúdo novo: traz **método de trabalho e diagnóstico de erros** — exatamente o que separa quem destrava sozinho de quem empaca. As questões cobrem isso.
 

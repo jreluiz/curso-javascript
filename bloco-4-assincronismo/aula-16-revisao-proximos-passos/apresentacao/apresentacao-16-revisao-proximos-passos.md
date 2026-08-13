@@ -133,8 +133,7 @@ Faça o inventário no seu GitHub:
 
 - 📁 Repositório de exercícios com **16 pastas** e dezenas de commits;
 - 🌐 **Lista de tarefas publicada** no GitHub Pages;
-- 🤝 Um **Pull Request aceito** no trabalho em dupla;
-- 🚀 O **projeto final** no ar, com README.
+- 🚀 O **app que consome API** da Aula 15, no ar e com README.
 
 Isso é portfólio inicial **real**. É exatamente o que se olha em candidatos a estágio.
 

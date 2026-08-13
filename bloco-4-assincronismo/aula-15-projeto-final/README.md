@@ -1,9 +1,11 @@
-# Aula 15 — Desenvolvimento do Projeto Final
+# Aula 15 — Laboratório: um app que consome API
 
-> 🎯 Objetivo: aula-laboratório dedicada ao projeto final — mão na massa do início ao fim. 😄
+> 🎯 Objetivo: aula-laboratório — construir e publicar, do zero, um app que consome uma API real. Mão na massa do início ao fim. 😄
 > 🎬 Slides da aula: [apresentacao-15-projeto-final.pdf](apresentacao/apresentacao-15-projeto-final.pdf)
 
-A especificação completa está em [`projetos/projeto-final.md`](../../projetos/projeto-final.md). Reserve esta aula como o seu tempo protegido de desenvolvimento.
+**O que construir:** um app com **campo de busca**, resultado **renderizado na página**, estado de **carregando** e **tratamento de erro** — usando uma das [APIs abertas da Aula 14](../aula-14-fetch-apis/README.md#5-apis-abertas-para-explorar). É o fecho de tudo o que o curso viu: DOM, eventos, validação, `fetch`, `async/await` e fluxo Git.
+
+Sem conteúdo novo hoje. Reserve esta aula como o seu tempo protegido de desenvolvimento — o que se combina aqui é o **método**.
 
 ## Roteiro sugerido para a aula
 
@@ -45,7 +47,7 @@ Ordem que funciona — cada etapa termina com **commit**:
 
 - [ ] Pelo menos as fatias 1–3 concluídas e **commitadas**;
 - [ ] `git push` dado (confira no navegador!);
-- [ ] Anotou (numa issue do seu próprio repositório!) o que falta para a entrega.
+- [ ] Anotou (numa issue do seu próprio repositório!) o que falta para terminar.
 
 ---
 

@@ -10,7 +10,7 @@ footer: '🟨 Curso de JavaScript · Aula 15'
 
 <div class="emoji">🚀</div>
 
-# Projeto Final
+# Um app que consome API
 
 ## Aula 15 · Bloco 4 — Assincronismo
 
@@ -22,9 +22,10 @@ footer: '🟨 Curso de JavaScript · Aula 15'
 
 Sem conteúdo novo. Esta aula é o seu **tempo protegido de desenvolvimento**.
 
-A especificação completa está em `projetos/projeto-final.md`.
+**Busca + resultado na página + carregando + erro**,
+sobre uma das APIs abertas da Aula 14.
 
-O que vamos combinar aqui é o **método** — a ordem que faz o projeto sair do papel sem travar.
+O que vamos combinar aqui é o **método** — a ordem que faz o app sair do papel sem travar.
 
 ---
 

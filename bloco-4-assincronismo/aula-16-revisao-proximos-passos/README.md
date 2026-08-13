@@ -104,8 +104,7 @@ Faça um inventário do curso no seu GitHub:
 
 - 📁 Repositório de exercícios com **16 pastas de aulas** e dezenas de commits;
 - 🌐 **Lista de tarefas publicada** no GitHub Pages;
-- 🤝 Um **Pull Request aceito** no trabalho em dupla;
-- 🚀 O **projeto final** no ar, com README.
+- 🚀 O **app que consome API** da Aula 15, no ar e com README.
 
 Isso é um portfólio inicial real — recrutadores olham exatamente para isso em candidatos a estágio. Mantenha o ritmo: um commit por semana em projetos pessoais já o coloca à frente da maioria.
 
