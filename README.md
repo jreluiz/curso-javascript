@@ -87,6 +87,27 @@ Consulte o [guia de preparação do ambiente](recursos/ambiente.md): Node.js, VS
 - 🔗 [Links úteis](recursos/links-uteis.md)
 - 📚 [Curso de Git e GitHub](https://github.com/jreluiz/curso-git-github) (pré-requisito)
 
+## 📚 Bibliografia
+
+**Livro-base:**
+
+- FLANAGAN, David. **JavaScript: o guia definitivo**. 6. ed. Porto Alegre: Bookman, 2013.
+
+**Bibliografia de apoio:**
+
+| Obra | Onde ela ajuda mais |
+|---|---|
+| FREEMAN, Eric; ROBSON, Elisabeth. **Use a cabeça! Programação JavaScript**. Rio de Janeiro: Alta Books, 2016. | Blocos 1 e 2 — a linguagem explicada devagar e com muita figura; é o livro para **ler junto** com as aulas |
+| SILVA, Maurício Samy. **JavaScript: guia do programador**. São Paulo: Novatec, 2010. | Bloco 3 — DOM, eventos e formulários em português, com exemplo de página em quase toda seção |
+| HAVERBEKE, Marijn. **Eloquent JavaScript**. 3. ed. San Francisco: No Starch Press, 2018. | Blocos 2 e 4 — funções de ordem superior e assincronismo, com exercícios que rodam na própria página |
+| CROCKFORD, Douglas. **JavaScript: the good parts**. Sebastopol: O'Reilly, 2008. | Bloco 2 — por que `===` e não `==`, e quais partes da linguagem é melhor não usar |
+| SIMPSON, Kyle. **You Don't Know JS Yet**. 2. ed. Independente, 2020. | Depois do curso — `this`, protótipos e closures, os mecanismos que as aulas usam sem abrir |
+| ECMA INTERNATIONAL. **ECMA-262: ECMAScript language specification**. Genebra, edição corrente. | a norma da linguagem: a resposta final quando duas fontes discordam |
+
+**Três desses são gratuitos e legais de ler online:** o [Eloquent JavaScript](https://eloquentjavascript.net/) (há uma [tradução da comunidade](https://braziljs.github.io/eloquente-javascript/)), o [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) e a [especificação ECMA-262](https://tc39.es/ecma262/).
+
+**O curso é autocontido** — os livros são o passo seguinte, não um pré-requisito. Para consulta do dia a dia, a [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) resolve mais rápido que qualquer um deles; ela e as demais referências online estão em [Links úteis](recursos/links-uteis.md).
+
 ---
 
 *Este repositório continua evoluindo — exemplos e materiais novos são commitados aqui. Primeiro passo de toda sessão de estudo: `git pull`.* 🙂
