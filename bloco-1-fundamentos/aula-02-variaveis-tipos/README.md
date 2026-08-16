@@ -146,6 +146,10 @@ Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
 
+**A entrega é pelo formulário:** [responder a revisão da Aula 02](https://docs.google.com/forms/d/e/1FAIpQLSe7mPGNiu64woR3H_tYdv44FtzUUF3hj79NTtT84dBkyG5rmw/viewform)
+
+Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota é liberada no AVA depois da revisão em sala e da divulgação do gabarito.
+
 ---
 
 ⬅️ [Aula 01](../aula-01-introducao/README.md) | ➡️ [Aula 03 — Operadores e Condicionais](../aula-03-operadores-condicionais/README.md)

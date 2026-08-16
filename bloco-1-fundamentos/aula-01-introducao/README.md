@@ -123,7 +123,7 @@ Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-
 
 **A entrega é pelo formulário:** [responder a revisão da Aula 01](https://docs.google.com/forms/d/e/1FAIpQLSdVreJKUUxpsAsBRunvx8fKgGR71Qqf1Rxgb2pptqOAb5LImw/viewform)
 
-Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota e o gabarito comentado saem depois do prazo.
+Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota é liberada no AVA depois da revisão em sala e da divulgação do gabarito.
 
 ---
 
