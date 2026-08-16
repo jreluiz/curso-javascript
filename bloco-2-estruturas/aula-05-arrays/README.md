@@ -145,17 +145,22 @@ Na pasta `aula-05/`:
 5. **`ex05.js`** — Dado um array de nomes com repetições, escreva `contarOcorrencias(array, valor)` que retorna quantas vezes `valor` aparece;
 6. **Desafio 🌶️ `ex06.js`** — Dado um array de números, retorne um novo array **sem duplicatas**, usando apenas `for`, `if` e `includes`/`push`.
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-05/
+git commit -m "Resolve exercícios da aula 05"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-```bash
-git add aula-05/
-git commit -m "Resolve exercícios da aula 05 (arrays)"
-git push
-```
 
 ---
 

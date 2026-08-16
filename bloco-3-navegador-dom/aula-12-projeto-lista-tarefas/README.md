@@ -157,17 +157,22 @@ https://SEU-USUARIO.github.io/lista-de-tarefas/
 4. **Prioridade**: um `<select>` (alta/média/baixa) ao adicionar; tarefas de alta prioridade ganham uma classe de destaque;
 5. 🌶️ **Persistência com `localStorage`**: pesquise `localStorage.setItem/getItem` + `JSON.stringify/parse` (aula 06!) para as tarefas sobreviverem ao recarregar a página.
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-12/
+git commit -m "Resolve exercícios da aula 12"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) sobre a arquitetura do projeto e a publicação no Pages. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-- Projeto no repositório próprio, **publicado no Pages**;
-- Link do site funcionando no topo do README do projeto;
-- Histórico de commits mostrando as etapas (não um commit único!).
-
-🏁 **Fim do Bloco 3!** Próxima parada: buscar dados do mundo real com APIs.
 
 ---
 

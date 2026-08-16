@@ -161,19 +161,22 @@ Na pasta `aula-04/`:
 5. **`ex05.js`** — Escreva `fatorial(n)` usando um laço (5! = 5×4×3×2×1 = 120). O que acontece com `fatorial(0)`? (Matematicamente, deve dar 1);
 6. **Desafio 🌶️ `ex06.js`** — FizzBuzz, o clássico de entrevistas de emprego: para os números de 1 a 100, imprima "Fizz" se divisível por 3, "Buzz" se divisível por 5, "FizzBuzz" se divisível por ambos, e o próprio número caso contrário.
 
-## 🧠 Revisão
+### 📤 Entrega
 
-[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
 
 ```bash
+cd ..                 # da pasta da aula para a raiz do repositório
 git add aula-04/
-git commit -m "Resolve exercícios da aula 04 (laços e funções)"
+git commit -m "Resolve exercícios da aula 04"
 git push
 ```
 
-🏁 **Fim do Bloco 1!** Você já sabe o essencial de lógica em JavaScript.
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
 
 ---
 

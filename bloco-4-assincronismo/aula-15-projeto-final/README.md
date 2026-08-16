@@ -39,6 +39,19 @@ Ordem que funciona — cada etapa termina com **commit**:
 | `Failed to fetch` | URL errada, sem internet, ou API fora do ar — teste a URL no navegador |
 | Página do Pages desatualizada | Esqueceu o push, ou o cache — force com Ctrl+Shift+R |
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-15/
+git commit -m "Resolve exercícios da aula 15"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) sobre diagnóstico de erros e método de trabalho — o conteúdo desta aula. Responda sem consultar — depois volte e corrija.

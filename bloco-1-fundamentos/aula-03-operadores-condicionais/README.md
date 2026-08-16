@@ -156,17 +156,22 @@ Na pasta `aula-03/`:
    ```
 6. **Desafio 🌶️ `ex06.js`** — Um ano é bissexto se for divisível por 4, **exceto** os divisíveis por 100 que não sejam divisíveis por 400. Verifique com 2024 (✅), 1900 (❌) e 2000 (✅).
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-03/
+git commit -m "Resolve exercícios da aula 03"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-```bash
-git add aula-03/
-git commit -m "Resolve exercícios da aula 03 (operadores e condicionais)"
-git push
-```
 
 ---
 

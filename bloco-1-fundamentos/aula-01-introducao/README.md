@@ -104,20 +104,26 @@ Crie um arquivo para cada exercício dentro de `aula-01/` (ex.: `ex01.js`, `ex02
 3. **`ex03.js`** — Desenhe um "quadrado" 5x5 com asteriscos usando 5 `console.log`;
 4. **`ex04.js`** — Escreva um programa com um erro de propósito, execute, e **copie a mensagem de erro num comentário** no topo do arquivo, junto com a explicação do que ela significa.
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-01/
+git commit -m "Resolve exercícios da aula 01"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
 
-## ✅ Entrega
+**A entrega é pelo formulário:** [responder a revisão da Aula 01](https://docs.google.com/forms/d/e/1FAIpQLSdVreJKUUxpsAsBRunvx8fKgGR71Qqf1Rxgb2pptqOAb5LImw/viewform)
 
-```bash
-cd ..                     # volta para a raiz do repositório
-git add aula-01/
-git commit -m "Resolve exercícios da aula 01 (introdução)"
-git push
-```
-
-Confira **no navegador** que a pasta `aula-01/` apareceu no seu GitHub.
+Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota e o gabarito comentado saem depois do prazo.
 
 ---
 

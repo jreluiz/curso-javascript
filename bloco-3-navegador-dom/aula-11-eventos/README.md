@@ -140,17 +140,22 @@ Na pasta `aula-11/` (cada exercício é uma mini página):
 4. **Contador de caracteres** — Um `<textarea>` e um parágrafo `X/140 caracteres` atualizado a cada tecla (evento `input`). Passou de 140, o contador fica vermelho;
 5. **Desafio 🌶️ Lista dinâmica** — Campo + botão "Adicionar": cada item digitado vira um `<li>` na lista (validado contra vazio). É o aquecimento direto para o projeto da próxima aula!
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-11/
+git commit -m "Resolve exercícios da aula 11"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-```bash
-git add aula-11/
-git commit -m "Resolve exercícios da aula 11 (eventos)"
-git push
-```
 
 ---
 

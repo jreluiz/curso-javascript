@@ -131,19 +131,22 @@ const alunos = [
 5. **`ex05.js`** — **Encadeando:** média geral **apenas dos alunos de SI** (filter → reduce); lista dos nomes dos aprovados em ordem alfabética (filter → map → sort);
 6. **Desafio 🌶️ `ex06.js`** — Gere um "boletim" em texto: uma única string com uma linha por aluno (`Nome — média X — situação`), construída com map + join. Imprima com um único `console.log`.
 
-## 🧠 Revisão
+### 📤 Entrega
 
-[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
 
 ```bash
+cd ..                 # da pasta da aula para a raiz do repositório
 git add aula-08/
-git commit -m "Resolve exercícios da aula 08 (métodos funcionais)"
+git commit -m "Resolve exercícios da aula 08"
 git push
 ```
 
-🏁 **Fim do Bloco 2!** Na próxima aula, seu código ganha uma tela: vamos para o navegador.
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
+## 🧠 Revisão
+
+[8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
 
 ---
 

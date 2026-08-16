@@ -136,17 +136,22 @@ Na pasta `aula-07/`:
 5. **`ex05.js`** — Use **rest** para criar `media(...notas)` que aceita qualquer quantidade de notas. Depois use **spread** para chamá-la com um array existente: `media(...minhasNotas)`;
 6. **Desafio 🌶️ `ex06.js`** — Prove a diferença entre `const b = a` e `const b = [...a]` para arrays: altere `b` nos dois cenários e mostre com `console.log` o que acontece com `a` em cada caso. Explique num comentário.
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-07/
+git commit -m "Resolve exercícios da aula 07"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-```bash
-git add aula-07/
-git commit -m "Resolve exercícios da aula 07 (funções avançadas)"
-git push
-```
 
 ---
 

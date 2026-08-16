@@ -129,17 +129,22 @@ Na pasta `aula-02/` do seu repositório:
 4. **`ex04.js`** — Dada uma string com seu nome completo, imprima: o total de caracteres, tudo em maiúsculas, e se contém a letra "a" (use `.includes`);
 5. **Desafio 🌶️ `ex05.js`** — `const preco = "1250.50"` chegou como string. Converta e imprima o valor com 10% de desconto, formatado: `O preço com desconto é R$ 1125.45` (pesquise o método `.toFixed(2)`).
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-02/
+git commit -m "Resolve exercícios da aula 02"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-```bash
-git add aula-02/
-git commit -m "Resolve exercícios da aula 02 (variáveis e tipos)"
-git push
-```
 
 ---
 

@@ -140,17 +140,22 @@ Na pasta `aula-06/`:
 5. **`ex05.js`** — Converta o array de produtos em JSON com `JSON.stringify(produtos, null, 2)` (descubra o que os argumentos extras fazem) e imprima. Depois faça o caminho inverso com `JSON.parse` e prove que voltou a ser objeto acessando uma propriedade;
 6. **Desafio 🌶️ `ex06.js`** — Escreva `buscarPorNome(lista, nome)` que retorna o **objeto** do produto com aquele nome, ou `null` se não existir. Use desestruturação em algum ponto da solução.
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-06/
+git commit -m "Resolve exercícios da aula 06"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
-
-## ✅ Entrega
-
-```bash
-git add aula-06/
-git commit -m "Resolve exercícios da aula 06 (objetos)"
-git push
-```
 
 ---
 

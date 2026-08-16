@@ -118,6 +118,19 @@ Isso é um portfólio inicial real — recrutadores olham exatamente para isso e
 4. Renderize a lista numa página HTML com um campo de busca que filtra por nome enquanto digita (evento `input`);
 5. Commite com uma boa mensagem e dê push. 😉
 
+### 📤 Entrega
+
+Estes exercícios são feitos em sala e vão para o **seu repositório** `exercicios-javascript`:
+
+```bash
+cd ..                 # da pasta da aula para a raiz do repositório
+git add aula-16/
+git commit -m "Resolve exercícios da aula 16"
+git push
+```
+
+Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-javascript`.
+
 ## 🧠 Revisão
 
 [8 questões de múltipla escolha](revisao/README.md) sobre classes e o fechamento do curso. Responda sem consultar a aula — depois volte e corrija.
