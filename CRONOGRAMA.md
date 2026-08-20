@@ -4,7 +4,7 @@
 
 ## 1º Bimestre — fundamentos e estruturas
 
-- [ ] **13/08** · Aula 01 — [Introdução](bloco-1-fundamentos/aula-01-introducao/README.md)
+- [x] **13/08** · Aula 01 — [Introdução](bloco-1-fundamentos/aula-01-introducao/README.md)
 - [ ] **20/08** · Aula 02 — [Variáveis e tipos](bloco-1-fundamentos/aula-02-variaveis-tipos/README.md)
 - [ ] **27/08** · Aula 03 — [Operadores e condicionais](bloco-1-fundamentos/aula-03-operadores-condicionais/README.md)
 - [ ] **03/09** · Aula 04 — [Laços e funções](bloco-1-fundamentos/aula-04-lacos-funcoes/README.md) · fecha o Bloco 1
