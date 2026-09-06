@@ -162,6 +162,10 @@ Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-
 
 [8 questões de múltipla escolha](revisao/README.md) para conferir se os conceitos ficaram sólidos. Responda sem consultar a aula — depois volte e corrija.
 
+**A entrega é pelo formulário:** [responder a revisão da Aula 05](https://docs.google.com/forms/d/e/1FAIpQLSeQqu0YP1a18CHTsgGhdSbB44ckiv9PE1TfAJi5s6FWB9kWoA/viewform)
+
+Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. Se o seu nome ainda não estiver na lista, marque a última opção e escreva o nome completo no campo seguinte. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota é liberada no AVA depois da revisão em sala e da divulgação do gabarito.
+
 ---
 
 ⬅️ [Aula 04](../../bloco-1-fundamentos/aula-04-lacos-funcoes/README.md) | ➡️ [Aula 06 — Objetos](../aula-06-objetos/README.md)
