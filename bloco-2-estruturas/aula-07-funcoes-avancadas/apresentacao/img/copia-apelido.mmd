@@ -1,0 +1,38 @@
+---
+config:
+  theme: base
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 20px
+    lineColor: "#a88c00"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 30
+    rankSpacing: 60
+    padding: 14
+    wrappingWidth: 600
+---
+flowchart TD
+    N["notas"]
+    A["apelido = notas"]
+    C["copia = [...notas]"]
+    X["[7, 8, 10]"]
+    Y["[7, 8]"]
+
+    N --> X
+    A --> X
+    C --> Y
+
+    classDef nome fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef valor fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef forte fill:#fdf9e3,stroke:#a88c00,stroke-width:5px,color:#1a1a1a,font-family:Menlo
+    classDef texto fill:none,stroke:none,color:#1a1a1a
+    classDef term fill:#1e1e1e,stroke:#1e1e1e,stroke-width:3px,color:#e6e6e6,font-family:Menlo
+    classDef erro fill:#fbeae7,stroke:#b02a1c,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    class N,A,C nome
+    class X forte
+    class Y valor
+    linkStyle 0,1,2 stroke:#a88c00,stroke-width:3px

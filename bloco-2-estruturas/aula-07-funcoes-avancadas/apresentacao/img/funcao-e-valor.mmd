@@ -1,0 +1,33 @@
+---
+config:
+  theme: base
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 20px
+    lineColor: "#a88c00"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 18
+    rankSpacing: 50
+    padding: 14
+    wrappingWidth: 600
+---
+flowchart LR
+    I["idade"] --> V1["20"] -- "typeof" --> T1["#quot;number#quot;"]
+    N["nome"] --> V2["#quot;Ana#quot;"] -- "typeof" --> T2["#quot;string#quot;"]
+    D["dobrar"] --> V3["function (n) { return n * 2; }"] -- "typeof" --> T3["#quot;function#quot;"]
+
+    classDef nome fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef valor fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef forte fill:#fdf9e3,stroke:#a88c00,stroke-width:5px,color:#1a1a1a,font-family:Menlo
+    classDef texto fill:none,stroke:none,color:#1a1a1a
+    classDef term fill:#1e1e1e,stroke:#1e1e1e,stroke-width:3px,color:#e6e6e6,font-family:Menlo
+    classDef erro fill:#fbeae7,stroke:#b02a1c,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    class I,N,D nome
+    class V1,V2 valor
+    class V3 forte
+    class T1,T2,T3 term
+    linkStyle default stroke:#a88c00,stroke-width:3px

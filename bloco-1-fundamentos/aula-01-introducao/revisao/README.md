@@ -8,6 +8,8 @@
 
 Leia as 8 questões aqui e decida suas respostas antes de abrir o formulário: é **uma resposta por aluno**, com conta Google, e não dá para editar depois de enviar. Ele também pede seu usuário do GitHub.
 
+✅ **Gabarito comentado:** na [pasta de gabaritos no Google Drive](https://drive.google.com/drive/folders/1SDB5WVSeg-2I9AUJlPKTj9oyG9zMbaMz), o arquivo `curso-javascript-aula-01-gabarito.pdf` — só depois de enviar o formulário.
+
 ---
 
 ### Q-A01-01

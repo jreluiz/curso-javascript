@@ -1,0 +1,41 @@
+---
+config:
+  theme: base
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 20px
+    lineColor: "#a88c00"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 18
+    rankSpacing: 60
+    padding: 14
+    wrappingWidth: 600
+---
+flowchart LR
+    P["PROCESSAR<br/>———<br/>o esqueleto:<br/>percorre a lista"]
+    C1["acao(#quot;Ana#quot;)"]
+    C2["acao(#quot;Bruno#quot;)"]
+    C3["acao(#quot;Carla#quot;)"]
+    O1["Olá, Ana!"]
+    O2["Olá, Bruno!"]
+    O3["Olá, Carla!"]
+
+    P --> C1 --> O1
+    P --> C2 --> O2
+    P --> C3 --> O3
+
+    classDef nome fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef valor fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef forte fill:#fdf9e3,stroke:#a88c00,stroke-width:5px,color:#1a1a1a,font-family:Menlo
+    classDef texto fill:none,stroke:none,color:#1a1a1a
+    classDef term fill:#1e1e1e,stroke:#1e1e1e,stroke-width:3px,color:#e6e6e6,font-family:Menlo
+    classDef erro fill:#fbeae7,stroke:#b02a1c,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef esq fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a
+    class P esq
+    class C1,C2,C3 valor
+    class O1,O2,O3 term
+    linkStyle default stroke:#a88c00,stroke-width:3px

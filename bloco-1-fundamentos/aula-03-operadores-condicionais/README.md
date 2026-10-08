@@ -177,6 +177,10 @@ Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-
 
 Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota é liberada no AVA depois da revisão em sala e da divulgação do gabarito.
 
+**Gabarito comentado:** na [pasta de gabaritos no Google Drive](https://drive.google.com/drive/folders/1SDB5WVSeg-2I9AUJlPKTj9oyG9zMbaMz), o arquivo `curso-javascript-aula-03-gabarito.pdf`.
+
+Consulte só depois de enviar o formulário. Para cada questão ele mostra a alternativa certa, o porquê e o que há de errado em cada uma das outras.
+
 ---
 
 ⬅️ [Aula 02](../aula-02-variaveis-tipos/README.md) | ➡️ [Aula 04 — Laços e Funções](../aula-04-lacos-funcoes/README.md)
