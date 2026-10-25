@@ -1,0 +1,35 @@
+---
+config:
+  theme: base
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 20px
+    lineColor: "#a88c00"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 18
+    rankSpacing: 28
+    padding: 14
+    wrappingWidth: 600
+---
+flowchart TB
+    B["body"] --> HD["header"]
+    B --> M["main"]
+    B --> F["footer"]
+    HD --> H1["h1"]
+    HD --> N["nav"]
+    M --> S["section"]
+    S --> H2["h2"]
+    S --> A["article"]
+
+    classDef valor fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a
+    classDef tag fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef esq fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a
+    classDef term fill:#1e1e1e,stroke:#1e1e1e,stroke-width:3px,color:#e6e6e6
+    classDef raiz fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    class B raiz
+    class HD,M,F,H1,N,S,H2,A tag
+    linkStyle default stroke:#a88c00,stroke-width:3px

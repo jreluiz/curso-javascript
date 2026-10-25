@@ -15,7 +15,7 @@ No trio da web, o papel de cada linguagem é:
 - **c)** HTML e CSS são linguagens de programação, e JavaScript é uma linguagem de marcação;
 - **d)** as três fazem a mesma coisa, mudando apenas a sintaxe.
 
-↩︎ *Aula 09, seção 1 — O trio da web*
+↩︎ *Aula 09, seção 1 — O trio da web e o caminho do navegador*
 
 ---
 
@@ -28,7 +28,7 @@ A diferença entre os atributos `id` e `class` é que:
 - **c)** `id` identifica um elemento de forma única, enquanto `class` é um rótulo reutilizável por vários elementos;
 - **d)** não há diferença: são dois nomes para o mesmo atributo.
 
-↩︎ *Aula 09, seção 2 — HTML essencial*
+↩︎ *Aula 09, seção 2 — HTML: a estrutura*
 
 ---
 
@@ -41,13 +41,13 @@ Para estilizar no CSS o elemento `<div id="area-especial">`, o seletor correto �
 - **c)** `area-especial`
 - **d)** `div.area-especial`
 
-↩︎ *Aula 09, seção 3 — CSS mínimo*
+↩︎ *Aula 09, seção 3 — CSS: a aparência*
 
 ---
 
 ### Q-A09-04
 
-A tag `<script src="script.js"></script>` é colocada, por convenção, no **final do `<body>`** porque:
+A tag `<script src="script.js"></script>` é colocada, por convenção, no **final do** `<body>` porque:
 
 - **a)** o navegador ignora qualquer script que esteja no `<head>`;
 - **b)** essa é a única posição que o navegador aceita para a tag `<script>`;
@@ -67,7 +67,7 @@ Um `script.js` ligado a uma página contém apenas `console.log("Rodando!");`. A
 - **c)** numa janela pop-up sobre a página;
 - **d)** no título da aba do navegador.
 
-↩︎ *Aula 09, seção 5 — DevTools*
+↩︎ *Aula 09, seção 5 — DevTools — sua nova casa*
 
 ---
 
@@ -80,7 +80,7 @@ Segundo a regra do Bloco 3, ao encontrar um problema numa página, o primeiro pa
 - **c)** testar a página em outro navegador;
 - **d)** apagar o CSS para isolar o problema.
 
-↩︎ *Aula 09, seção 5 — DevTools*
+↩︎ *Aula 09, seção 5 — DevTools — sua nova casa*
 
 ---
 
@@ -93,7 +93,7 @@ Sobre as tags HTML, é correto afirmar que:
 - **c)** a tag `<li>` funciona sozinha, fora de uma lista;
 - **d)** a maioria abre e fecha (`<p>...</p>`), mas algumas não têm tag de fechamento, como `<input />`.
 
-↩︎ *Aula 09, seção 2 — HTML essencial*
+↩︎ *Aula 09, seção 2 — HTML: a estrutura*
 
 ---
 

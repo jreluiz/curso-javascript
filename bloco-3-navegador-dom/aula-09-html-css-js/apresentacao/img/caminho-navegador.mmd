@@ -1,0 +1,31 @@
+---
+config:
+  theme: base
+  fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
+  themeVariables:
+    fontSize: 20px
+    lineColor: "#a88c00"
+    primaryColor: "#fdf9e3"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#c9a800"
+    edgeLabelBackground: "#fdfdfb"
+  flowchart:
+    nodeSpacing: 18
+    rankSpacing: 60
+    padding: 14
+    wrappingWidth: 600
+---
+flowchart LR
+    H["📄 index.html"] -->|"lê de cima<br/>para baixo"| A["🌳 árvore de<br/>elementos"]
+    C["🎨 estilo.css"] -->|"pinta cada<br/>elemento"| A
+    J["⚙️ app.js"] -->|"lê e muda<br/>a árvore"| A
+    A --> T["🖥️ a página<br/>na tela"]
+
+    classDef valor fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a
+    classDef tag fill:#fdf9e3,stroke:#c9a800,stroke-width:3px,color:#1a1a1a,font-family:Menlo
+    classDef esq fill:#c9a800,stroke:#c9a800,stroke-width:3px,color:#1a1a1a
+    classDef term fill:#1e1e1e,stroke:#1e1e1e,stroke-width:3px,color:#e6e6e6
+    class H,C,J valor
+    class A esq
+    class T term
+    linkStyle default stroke:#a88c00,stroke-width:3px

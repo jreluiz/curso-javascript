@@ -1,0 +1,193 @@
+/* ===== Variáveis: troque as cores aqui e a página inteira muda ===== */
+:root {
+  --cor-fundo: #f4f1ea;
+  --cor-texto: #1f1f24;
+  --cor-destaque: #e8b500;        /* o amarelo do JavaScript */
+  --cor-topo: #1f1f24;
+  --cor-card: #ffffff;
+  --raio: 14px;
+  --sombra: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+/* ===== A página ===== */
+* {
+  box-sizing: border-box;          /* a largura passa a incluir padding e borda */
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
+}
+
+/* ===== Cabeçalho ===== */
+.topo {
+  background-color: var(--cor-topo);
+  color: white;
+  text-align: center;
+  padding: 28px 16px 20px;
+}
+
+.topo h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.subtitulo {
+  margin: 6px 0 14px;
+  opacity: 0.8;
+}
+
+.quero-ver {
+  display: inline-block;
+  margin: 0;
+  padding: 6px 16px;
+  border-radius: 999px;            /* bem arredondado: vira uma "pílula" */
+  background-color: var(--cor-destaque);
+  color: var(--cor-texto);
+  font-weight: bold;
+}
+
+/* ===== Conteúdo ===== */
+main {
+  max-width: 1100px;
+  margin: 0 auto;                  /* centraliza */
+  padding: 24px 16px;
+}
+
+/* A barra do filtro: os três itens lado a lado, com flexbox */
+.barra {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.barra label {
+  font-weight: bold;
+}
+
+.barra select {
+  font-size: 1rem;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid #c9c4b8;
+}
+
+#estatisticas {
+  margin: 0;
+  color: #5b5b66;
+}
+
+.filmes h2 {
+  font-size: 1.2rem;
+  margin: 20px 0 12px;
+}
+
+/* A grade de cards: flexbox que quebra linha quando não cabe mais */
+.lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+/* ===== O card de um filme ===== */
+.card {
+  width: 210px;
+  background-color: var(--cor-card);
+  border-radius: var(--raio);
+  box-shadow: var(--sombra);
+  overflow: hidden;                /* o pôster respeita o canto arredondado */
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {                      /* :hover — quando o mouse passa por cima */
+  transform: translateY(-6px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+}
+
+.poster {
+  font-size: 4rem;
+  text-align: center;
+  padding: 22px 0;
+}
+
+.card h3 {
+  font-size: 1.05rem;
+  margin: 12px 14px 4px;
+}
+
+.detalhes,
+.nota {
+  margin: 0 14px;
+  color: #5b5b66;
+  font-size: 0.9rem;
+}
+
+.nota {
+  margin-top: 4px;
+  font-weight: bold;
+  color: var(--cor-texto);
+}
+
+.botao-quero-ver {
+  margin: 14px;
+  margin-top: auto;                /* empurra o botão para o pé do card */
+  padding: 8px;
+  font-size: 0.95rem;
+  border: 2px solid var(--cor-texto);
+  border-radius: 8px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.botao-quero-ver:hover {
+  background-color: var(--cor-destaque);
+}
+
+/* O card marcado como "quero ver": borda e botão na cor de destaque */
+.card.marcado {
+  outline: 4px solid var(--cor-destaque);
+}
+
+.card.marcado .botao-quero-ver {
+  background-color: var(--cor-destaque);
+  border-color: var(--cor-destaque);
+  font-weight: bold;
+}
+
+/* Uma cor de fundo de pôster para cada gênero */
+.genero-acao     .poster { background-color: #f6c4b8; }
+.genero-animacao .poster { background-color: #c8e6c4; }
+.genero-comedia  .poster { background-color: #fde9a6; }
+.genero-drama    .poster { background-color: #cfd8f2; }
+.genero-ficcao   .poster { background-color: #e2cdf0; }
+.genero-outro    .poster { background-color: #e3e3e3; }   /* gênero que o CSS não conhece */
+
+.aviso-vazio {
+  color: #5b5b66;
+  font-style: italic;
+}
+
+/* ===== Rodapé ===== */
+.rodape {
+  text-align: center;
+  padding: 20px 16px 32px;
+  color: #5b5b66;
+  font-size: 0.85rem;
+}
+
+/* ===== Tela estreita (celular): o card ocupa a largura toda ===== */
+@media (max-width: 480px) {
+  .topo h1 {
+    font-size: 1.7rem;
+  }
+
+  .card {
+    width: 100%;
+  }
+}

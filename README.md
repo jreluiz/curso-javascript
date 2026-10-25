@@ -37,7 +37,7 @@ Ao final do curso, você será capaz de:
 
 | Aula | Tema | Conteúdo |
 |:---:|------|----------|
-| 09 | [HTML + CSS + JS](bloco-3-navegador-dom/aula-09-html-css-js/README.md) | O trio da web, JS no navegador, DevTools |
+| 09 | [HTML + CSS + JS](bloco-3-navegador-dom/aula-09-html-css-js/README.md) | O trio da web, JS no navegador, DevTools e um catálogo de filmes completo |
 | 10 | [DOM](bloco-3-navegador-dom/aula-10-dom/README.md) | Selecionar, alterar, criar e remover elementos |
 | 11 | [Eventos](bloco-3-navegador-dom/aula-11-eventos/README.md) | `addEventListener`, formulários, validação |
 | 12 | [Projeto guiado](bloco-3-navegador-dom/aula-12-projeto-lista-tarefas/README.md) | Lista de tarefas + publicação no GitHub Pages |

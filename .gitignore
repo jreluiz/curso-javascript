@@ -16,6 +16,9 @@ respostas/
 
 recursos/notas/
 
+# Documentos de trabalho do professor (diagnósticos, decisões de reformulação)
+docs/
+
 # Editor e sistema operacional
 .vscode/
 .idea/

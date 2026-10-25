@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo de Filmes</title>
+  <!-- O ícone da aba: um emoji desenhado ali mesmo, sem arquivo de imagem -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>" />
+  <link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+  <header class="topo">
+    <h1>🎬 Catálogo de Filmes</h1>
+    <p class="subtitulo">Os filmes da turma, com gênero e nota</p>
+    <p class="quero-ver">🎟️ Quero ver: <span id="contador-quero-ver">0</span></p>
+  </header>
+
+  <main>
+    <section class="barra">
+      <label for="filtro-genero">Gênero</label>
+      <select id="filtro-genero">
+        <option value="Todos">Todos</option>
+        <option value="Ação">Ação</option>
+        <option value="Animação">Animação</option>
+        <option value="Comédia">Comédia</option>
+        <option value="Drama">Drama</option>
+        <option value="Ficção">Ficção</option>
+      </select>
+      <p id="estatisticas"></p>
+    </section>
+
+    <section class="filmes">
+      <h2>Filmes</h2>
+      <!-- os cards são criados pelo app.js, a partir dos dados de dados.js -->
+      <div id="lista-filmes" class="lista"></div>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <p>Feito com HTML + CSS + JavaScript · Aula 09</p>
+  </footer>
+
+  <!-- Os scripts vão no fim do body, e nesta ordem: primeiro os dados, depois quem usa os dados -->
+  <script src="dados.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
