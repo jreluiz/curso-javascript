@@ -174,6 +174,10 @@ Confira no navegador que a pasta apareceu em `github.com/SEU-USUARIO/exercicios-
 
 [8 questões de múltipla escolha](revisao/README.md) sobre a arquitetura do projeto e a publicação no Pages. Responda sem consultar a aula — depois volte e corrija.
 
+**A entrega é pelo formulário:** [responder a revisão da Aula 12](https://docs.google.com/forms/d/e/1FAIpQLSf_QqYvkDmP_MZEHTMxrsj_Kus1PAUUo-gN91VKnKE56KnUtg/viewform)
+
+Entre com uma conta Google, selecione seu nome na lista e informe seu usuário do GitHub — só o usuário, não o endereço do perfil. Se o seu nome ainda não estiver na lista, marque a última opção e escreva o nome completo no campo seguinte. É **uma resposta por aluno** e não dá para editar depois de enviar, então confira antes. A nota é liberada no AVA depois da revisão em sala e da divulgação do gabarito.
+
 ---
 
 ⬅️ [Aula 11](../aula-11-eventos/README.md) | ➡️ [Aula 13 — Promises e async/await](../../bloco-4-assincronismo/aula-13-promises-async/README.md)
